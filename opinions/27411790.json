@@ -1,6 +1,5 @@
 [
     {
-        "opinion_id": "8980177",
         "author": "m...1",
         "recommendation": true,
         "stars": 5.0,
@@ -54,10 +53,10 @@
         "post_date": "2019-01-24 09:50:11",
         "purchase_date": "2019-01-18 23:55:14",
         "usefulness": 21,
-        "uselessness": 6
+        "uselessness": 6,
+        "opinion_id": "8980177"
     },
     {
-        "opinion_id": "4973068",
         "author": "k...0",
         "recommendation": true,
         "stars": 5.0,
@@ -81,10 +80,10 @@
         "post_date": "2017-08-24 12:43:40",
         "purchase_date": "2017-08-03 08:25:32",
         "usefulness": 17,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4973068"
     },
     {
-        "opinion_id": "11207457",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 5.0,
@@ -131,10 +130,10 @@
         "post_date": "2019-10-28 11:27:05",
         "purchase_date": "2019-10-21 16:31:27",
         "usefulness": 2,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "11207457"
     },
     {
-        "opinion_id": "8301498",
         "author": "Madzia87",
         "recommendation": true,
         "stars": 5.0,
@@ -145,10 +144,10 @@
         "post_date": "2018-08-30 14:26:19",
         "purchase_date": "2018-08-26 19:53:39",
         "usefulness": 14,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8301498"
     },
     {
-        "opinion_id": "5154469",
         "author": "Aleksandra",
         "recommendation": true,
         "stars": 5.0,
@@ -159,10 +158,10 @@
         "post_date": "2017-10-24 16:26:26",
         "purchase_date": "2017-10-18 11:44:32",
         "usefulness": 10,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5154469"
     },
     {
-        "opinion_id": "8550529",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -184,10 +183,10 @@
         "post_date": "2018-11-12 15:53:21",
         "purchase_date": "2018-11-04 16:04:33",
         "usefulness": 10,
-        "uselessness": 4
+        "uselessness": 4,
+        "opinion_id": "8550529"
     },
     {
-        "opinion_id": "13446173",
         "author": "K...9",
         "recommendation": true,
         "stars": 5.0,
@@ -225,10 +224,10 @@
         "post_date": "2020-11-25 16:11:45",
         "purchase_date": "2020-11-10 12:41:19",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13446173"
     },
     {
-        "opinion_id": "13763286",
         "author": "m...5",
         "recommendation": true,
         "stars": 5.0,
@@ -239,10 +238,10 @@
         "post_date": "2021-01-13 16:08:49",
         "purchase_date": "2021-01-10 19:54:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13763286"
     },
     {
-        "opinion_id": "8509757",
         "author": "AgaE32",
         "recommendation": true,
         "stars": 5.0,
@@ -253,10 +252,10 @@
         "post_date": "2018-11-02 11:56:42",
         "purchase_date": "2018-10-13 00:35:44",
         "usefulness": 9,
-        "uselessness": 2
+        "uselessness": 2,
+        "opinion_id": "8509757"
     },
     {
-        "opinion_id": "8921617",
         "author": "Joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -289,10 +288,10 @@
         "post_date": "2019-01-14 11:56:33",
         "purchase_date": "2018-12-31 01:47:07",
         "usefulness": 11,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "8921617"
     },
     {
-        "opinion_id": "10242056",
         "author": "Martyna",
         "recommendation": true,
         "stars": 5.0,
@@ -307,10 +306,10 @@
         "post_date": "2019-03-14 08:03:19",
         "purchase_date": "2019-02-11 08:30:00",
         "usefulness": 9,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10242056"
     },
     {
-        "opinion_id": "3665376",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -327,10 +326,10 @@
         "post_date": "2016-03-30 09:37:33",
         "purchase_date": "2016-03-03 15:37:12",
         "usefulness": 1,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "3665376"
     },
     {
-        "opinion_id": "10900903",
         "author": "Miriam",
         "recommendation": true,
         "stars": 5.0,
@@ -348,10 +347,10 @@
         "post_date": "2019-08-09 22:42:29",
         "purchase_date": "2019-07-20 00:51:37",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10900903"
     },
     {
-        "opinion_id": "6427136",
         "author": "Aga",
         "recommendation": true,
         "stars": 4.5,
@@ -369,10 +368,10 @@
         "post_date": "2018-01-03 14:29:26",
         "purchase_date": "2017-12-19 13:43:01",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6427136"
     },
     {
-        "opinion_id": "6364577",
         "author": "Joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -389,10 +388,10 @@
         "post_date": "2017-12-19 07:37:10",
         "purchase_date": "2017-12-13 15:49:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6364577"
     },
     {
-        "opinion_id": "3258631",
         "author": "AnnaS",
         "recommendation": true,
         "stars": 5.0,
@@ -405,10 +404,10 @@
         "post_date": "2015-07-30 11:37:14",
         "purchase_date": "2015-06-19 22:26:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3258631"
     },
     {
-        "opinion_id": "2654766",
         "author": "tiramisu",
         "recommendation": true,
         "stars": 5.0,
@@ -419,10 +418,10 @@
         "post_date": "2014-07-18 10:22:44",
         "purchase_date": "2014-07-09 11:29:41",
         "usefulness": 57,
-        "uselessness": 20
+        "uselessness": 20,
+        "opinion_id": "2654766"
     },
     {
-        "opinion_id": "13378311",
         "author": "b...z",
         "recommendation": true,
         "stars": 5.0,
@@ -448,10 +447,10 @@
         "post_date": "2020-11-14 11:52:56",
         "purchase_date": "2020-10-21 16:18:28",
         "usefulness": 3,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13378311"
     },
     {
-        "opinion_id": "8909129",
         "author": "justek17",
         "recommendation": true,
         "stars": 5.0,
@@ -462,10 +461,10 @@
         "post_date": "2019-01-11 15:09:50",
         "purchase_date": "2018-12-22 01:01:14",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8909129"
     },
     {
-        "opinion_id": "10928002",
         "author": "achyzynska04",
         "recommendation": true,
         "stars": 5.0,
@@ -480,10 +479,10 @@
         "post_date": "2019-08-17 08:51:52",
         "purchase_date": "2019-07-25 17:09:47",
         "usefulness": 6,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "10928002"
     },
     {
-        "opinion_id": "12756023",
         "author": "a...4",
         "recommendation": true,
         "stars": 5.0,
@@ -505,10 +504,10 @@
         "post_date": "2020-07-03 12:24:29",
         "purchase_date": "2020-06-18 00:01:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12756023"
     },
     {
-        "opinion_id": "10263363",
         "author": "Eliza",
         "recommendation": true,
         "stars": 5.0,
@@ -519,10 +518,10 @@
         "post_date": "2019-03-18 15:54:20",
         "purchase_date": "2019-02-24 17:22:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10263363"
     },
     {
-        "opinion_id": "2905677",
         "author": "Ania",
         "recommendation": true,
         "stars": 4.0,
@@ -537,10 +536,10 @@
         "post_date": "2015-01-07 11:54:23",
         "purchase_date": "2014-12-19 19:49:24",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "2905677"
     },
     {
-        "opinion_id": "5026755",
         "author": "Marlen",
         "recommendation": null,
         "stars": 3.5,
@@ -663,10 +662,10 @@
         "post_date": "2017-09-11 12:31:19",
         "purchase_date": "2017-08-09 23:01:15",
         "usefulness": 1,
-        "uselessness": 8
+        "uselessness": 8,
+        "opinion_id": "5026755"
     },
     {
-        "opinion_id": "3419510",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -677,10 +676,10 @@
         "post_date": "2015-11-16 10:04:44",
         "purchase_date": "2015-10-31 18:31:19",
         "usefulness": 0,
-        "uselessness": 2
+        "uselessness": 2,
+        "opinion_id": "3419510"
     },
     {
-        "opinion_id": "8014415",
         "author": "Jola",
         "recommendation": true,
         "stars": 5.0,
@@ -691,10 +690,10 @@
         "post_date": "2018-06-04 11:08:26",
         "purchase_date": "2018-05-29 09:05:46",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "8014415"
     },
     {
-        "opinion_id": "3219231",
         "author": "Bożena",
         "recommendation": true,
         "stars": 5.0,
@@ -705,10 +704,10 @@
         "post_date": "2015-07-02 20:29:40",
         "purchase_date": "2015-06-22 07:59:13",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "3219231"
     },
     {
-        "opinion_id": "13934113",
         "author": "k...2",
         "recommendation": true,
         "stars": 5.0,
@@ -734,10 +733,10 @@
         "post_date": "2021-02-11 06:39:59",
         "purchase_date": "2021-01-23 12:38:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13934113"
     },
     {
-        "opinion_id": "3237537",
         "author": "AnnaS",
         "recommendation": true,
         "stars": 5.0,
@@ -755,10 +754,10 @@
         "post_date": "2015-07-16 07:23:18",
         "purchase_date": "2015-06-19 22:26:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3237537"
     },
     {
-        "opinion_id": "8178605",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -769,10 +768,10 @@
         "post_date": "2018-07-25 17:09:35",
         "purchase_date": "2018-07-13 18:10:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8178605"
     },
     {
-        "opinion_id": "13179364",
         "author": "u...e",
         "recommendation": true,
         "stars": 5.0,
@@ -789,10 +788,10 @@
         "post_date": "2020-10-08 21:09:31",
         "purchase_date": "2020-10-03 00:31:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13179364"
     },
     {
-        "opinion_id": "11787673",
         "author": "Hanna",
         "recommendation": true,
         "stars": 5.0,
@@ -803,10 +802,10 @@
         "post_date": "2020-02-22 06:38:11",
         "purchase_date": "2020-01-22 09:05:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11787673"
     },
     {
-        "opinion_id": "3554748",
         "author": "Jolanta Kopocin",
         "recommendation": null,
         "stars": 3.0,
@@ -817,10 +816,10 @@
         "post_date": "2016-01-28 09:01:30",
         "purchase_date": "2015-12-28 10:03:53",
         "usefulness": 4,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3554748"
     },
     {
-        "opinion_id": "13204774",
         "author": "o...o",
         "recommendation": true,
         "stars": 5.0,
@@ -835,10 +834,10 @@
         "post_date": "2020-10-13 20:31:44",
         "purchase_date": "2020-09-12 10:35:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13204774"
     },
     {
-        "opinion_id": "13059300",
         "author": "m...k",
         "recommendation": true,
         "stars": 5.0,
@@ -854,10 +853,10 @@
         "post_date": "2020-09-08 15:53:10",
         "purchase_date": "2020-08-08 23:18:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13059300"
     },
     {
-        "opinion_id": "6234848",
         "author": "marbog",
         "recommendation": true,
         "stars": 5.0,
@@ -868,10 +867,10 @@
         "post_date": "2017-11-21 13:11:15",
         "purchase_date": "2017-11-02 18:33:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6234848"
     },
     {
-        "opinion_id": "5050322",
         "author": "Laaxh",
         "recommendation": true,
         "stars": 4.5,
@@ -889,10 +888,10 @@
         "post_date": "2017-09-18 21:37:02",
         "purchase_date": "2017-09-13 22:23:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5050322"
     },
     {
-        "opinion_id": "14201549",
         "author": "JUSTYNA",
         "recommendation": true,
         "stars": 5.0,
@@ -903,10 +902,10 @@
         "post_date": "2021-03-30 11:53:37",
         "purchase_date": "2021-03-25 20:32:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14201549"
     },
     {
-        "opinion_id": "12268344",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -917,10 +916,10 @@
         "post_date": "2020-04-27 13:43:53",
         "purchase_date": "2020-04-18 20:46:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12268344"
     },
     {
-        "opinion_id": "8056380",
         "author": "czagnieszka",
         "recommendation": true,
         "stars": 4.0,
@@ -945,10 +944,10 @@
         "post_date": "2018-06-17 21:51:32",
         "purchase_date": "2018-06-01 00:42:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8056380"
     },
     {
-        "opinion_id": "10163545",
         "author": "Iza",
         "recommendation": true,
         "stars": 5.0,
@@ -959,10 +958,10 @@
         "post_date": "2019-02-27 11:43:15",
         "purchase_date": "2019-02-12 21:04:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10163545"
     },
     {
-        "opinion_id": "8496643",
         "author": "Megi",
         "recommendation": true,
         "stars": 5.0,
@@ -978,10 +977,10 @@
         "post_date": "2018-10-29 15:00:19",
         "purchase_date": "2018-10-17 15:05:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8496643"
     },
     {
-        "opinion_id": "4627597",
         "author": "Justyna",
         "recommendation": true,
         "stars": 4.5,
@@ -992,10 +991,10 @@
         "post_date": "2017-05-03 17:35:59",
         "purchase_date": "2017-04-23 15:25:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4627597"
     },
     {
-        "opinion_id": "6329512",
         "author": "elza20",
         "recommendation": true,
         "stars": 4.5,
@@ -1060,10 +1059,10 @@
         "post_date": "2017-12-12 12:24:52",
         "purchase_date": "2017-11-30 17:23:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6329512"
     },
     {
-        "opinion_id": "8396356",
         "author": "Ewa",
         "recommendation": true,
         "stars": 4.5,
@@ -1083,10 +1082,10 @@
         "post_date": "2018-10-01 12:58:24",
         "purchase_date": "2018-09-12 08:51:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8396356"
     },
     {
-        "opinion_id": "8571921",
         "author": "Asia",
         "recommendation": true,
         "stars": 5.0,
@@ -1104,10 +1103,10 @@
         "post_date": "2018-11-15 13:39:42",
         "purchase_date": "2018-11-07 10:17:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8571921"
     },
     {
-        "opinion_id": "4701972",
         "author": "roza591",
         "recommendation": true,
         "stars": 4.0,
@@ -1118,10 +1117,10 @@
         "post_date": "2017-05-26 10:44:26",
         "purchase_date": "2017-05-23 09:42:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4701972"
     },
     {
-        "opinion_id": "4121814",
         "author": "Marta",
         "recommendation": true,
         "stars": 5.0,
@@ -1132,10 +1131,10 @@
         "post_date": "2016-10-29 09:36:30",
         "purchase_date": "2016-10-23 22:47:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4121814"
     },
     {
-        "opinion_id": "4585042",
         "author": "Pauli",
         "recommendation": true,
         "stars": 5.0,
@@ -1146,10 +1145,10 @@
         "post_date": "2017-04-19 18:01:58",
         "purchase_date": "2017-04-07 16:27:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4585042"
     },
     {
-        "opinion_id": "10130828",
         "author": "Agathiu",
         "recommendation": true,
         "stars": 5.0,
@@ -1167,10 +1166,10 @@
         "post_date": "2019-02-20 20:07:25",
         "purchase_date": "2019-01-20 14:49:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10130828"
     },
     {
-        "opinion_id": "2673200",
         "author": "Emilia",
         "recommendation": true,
         "stars": 5.0,
@@ -1181,10 +1180,10 @@
         "post_date": "2014-08-01 15:03:40",
         "purchase_date": "2014-07-14 15:07:13",
         "usefulness": 44,
-        "uselessness": 21
+        "uselessness": 21,
+        "opinion_id": "2673200"
     },
     {
-        "opinion_id": "11954743",
         "author": "domino0202",
         "recommendation": true,
         "stars": 5.0,
@@ -1195,10 +1194,10 @@
         "post_date": "2020-03-20 23:19:06",
         "purchase_date": "2020-01-16 20:09:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11954743"
     },
     {
-        "opinion_id": "2771968",
         "author": "Ewelina",
         "recommendation": true,
         "stars": 5.0,
@@ -1213,10 +1212,10 @@
         "post_date": "2014-10-17 14:19:46",
         "purchase_date": "2014-08-23 17:39:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2771968"
     },
     {
-        "opinion_id": "12261365",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 4.5,
@@ -1227,10 +1226,10 @@
         "post_date": "2020-04-26 13:18:21",
         "purchase_date": "2020-03-24 17:17:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12261365"
     },
     {
-        "opinion_id": "3110017",
         "author": "Ona z Gdyni",
         "recommendation": true,
         "stars": 5.0,
@@ -1241,10 +1240,10 @@
         "post_date": "2015-04-25 07:47:14",
         "purchase_date": "2015-04-17 09:58:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3110017"
     },
     {
-        "opinion_id": "4581279",
         "author": "Olimpiia",
         "recommendation": true,
         "stars": 5.0,
@@ -1255,10 +1254,10 @@
         "post_date": "2017-04-18 20:38:21",
         "purchase_date": "2017-03-13 16:06:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4581279"
     },
     {
-        "opinion_id": "6491544",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -1275,10 +1274,10 @@
         "post_date": "2018-01-19 09:08:28",
         "purchase_date": "2018-01-01 17:12:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6491544"
     },
     {
-        "opinion_id": "13732309",
         "author": "j...a",
         "recommendation": true,
         "stars": 5.0,
@@ -1295,10 +1294,10 @@
         "post_date": "2021-01-07 21:27:46",
         "purchase_date": "2020-12-16 21:05:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13732309"
     },
     {
-        "opinion_id": "4418218",
         "author": "Sam",
         "recommendation": true,
         "stars": 5.0,
@@ -1309,10 +1308,10 @@
         "post_date": "2017-02-09 14:02:46",
         "purchase_date": "2017-01-31 20:35:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4418218"
     },
     {
-        "opinion_id": "4407824",
         "author": "ewela",
         "recommendation": false,
         "stars": 2.0,
@@ -1323,10 +1322,10 @@
         "post_date": "2017-02-06 09:08:54",
         "purchase_date": "2017-01-23 13:10:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4407824"
     },
     {
-        "opinion_id": "10855976",
         "author": "cynamonka17",
         "recommendation": true,
         "stars": 5.0,
@@ -1337,10 +1336,10 @@
         "post_date": "2019-07-31 08:23:21",
         "purchase_date": "2019-07-09 22:31:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10855976"
     },
     {
-        "opinion_id": "3802844",
         "author": "Aneta",
         "recommendation": true,
         "stars": 5.0,
@@ -1355,10 +1354,10 @@
         "post_date": "2016-06-30 13:42:09",
         "purchase_date": "2016-06-20 15:26:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3802844"
     },
     {
-        "opinion_id": "4739016",
         "author": "Ksenia",
         "recommendation": true,
         "stars": 4.0,
@@ -1369,10 +1368,10 @@
         "post_date": "2017-06-07 20:08:35",
         "purchase_date": "2017-06-04 09:13:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4739016"
     },
     {
-        "opinion_id": "3805607",
         "author": "KASIA",
         "recommendation": true,
         "stars": 5.0,
@@ -1383,10 +1382,10 @@
         "post_date": "2016-07-03 09:22:14",
         "purchase_date": "2016-06-05 17:28:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3805607"
     },
     {
-        "opinion_id": "3414392",
         "author": "majeca",
         "recommendation": true,
         "stars": 5.0,
@@ -1397,10 +1396,10 @@
         "post_date": "2015-11-12 12:01:28",
         "purchase_date": "2015-10-28 20:26:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3414392"
     },
     {
-        "opinion_id": "2539363",
         "author": "Nka",
         "recommendation": true,
         "stars": 4.0,
@@ -1415,10 +1414,10 @@
         "post_date": "2014-04-28 14:20:34",
         "purchase_date": "2014-04-16 14:22:26",
         "usefulness": 38,
-        "uselessness": 25
+        "uselessness": 25,
+        "opinion_id": "2539363"
     },
     {
-        "opinion_id": "8303663",
         "author": "Ewa",
         "recommendation": true,
         "stars": 4.5,
@@ -1434,10 +1433,10 @@
         "post_date": "2018-08-31 07:03:41",
         "purchase_date": "2018-08-13 14:27:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8303663"
     },
     {
-        "opinion_id": "3125081",
         "author": "Maryla",
         "recommendation": true,
         "stars": 5.0,
@@ -1448,10 +1447,10 @@
         "post_date": "2015-05-04 14:14:49",
         "purchase_date": "2015-04-28 13:39:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3125081"
     },
     {
-        "opinion_id": "3775886",
         "author": "iwona",
         "recommendation": true,
         "stars": 4.5,
@@ -1465,10 +1464,10 @@
         "post_date": "2016-06-08 15:55:19",
         "purchase_date": "2016-05-28 22:44:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3775886"
     },
     {
-        "opinion_id": "3360681",
         "author": "Marta",
         "recommendation": true,
         "stars": 5.0,
@@ -1479,10 +1478,10 @@
         "post_date": "2015-10-09 23:31:18",
         "purchase_date": "2015-10-06 15:43:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3360681"
     },
     {
-        "opinion_id": "8208947",
         "author": "Anne",
         "recommendation": true,
         "stars": 4.0,
@@ -1495,10 +1494,10 @@
         "post_date": "2018-08-03 09:37:55",
         "purchase_date": "2018-07-25 19:39:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8208947"
     },
     {
-        "opinion_id": "3522133",
         "author": "Natalia",
         "recommendation": true,
         "stars": 5.0,
@@ -1516,10 +1515,10 @@
         "post_date": "2016-01-08 20:51:48",
         "purchase_date": "2015-12-29 00:42:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3522133"
     },
     {
-        "opinion_id": "6524393",
         "author": "MalaKasia",
         "recommendation": true,
         "stars": 5.0,
@@ -1536,10 +1535,10 @@
         "post_date": "2018-01-27 19:14:53",
         "purchase_date": "2018-01-10 18:13:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6524393"
     },
     {
-        "opinion_id": "8093050",
         "author": "n...9",
         "recommendation": true,
         "stars": 4.0,
@@ -1570,10 +1569,10 @@
         "post_date": "2018-06-29 11:50:07",
         "purchase_date": null,
         "usefulness": 10,
-        "uselessness": 3
+        "uselessness": 3,
+        "opinion_id": "8093050"
     },
     {
-        "opinion_id": "3820857",
         "author": "Aga",
         "recommendation": true,
         "stars": 5.0,
@@ -1587,10 +1586,10 @@
         "post_date": "2016-07-13 12:04:53",
         "purchase_date": "2016-07-03 12:09:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3820857"
     },
     {
-        "opinion_id": "4327641",
         "author": "Wiktoria",
         "recommendation": true,
         "stars": 5.0,
@@ -1601,10 +1600,10 @@
         "post_date": "2017-01-03 14:49:06",
         "purchase_date": "2016-12-22 15:14:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4327641"
     },
     {
-        "opinion_id": "10388150",
         "author": "Karolina",
         "recommendation": true,
         "stars": 5.0,
@@ -1615,10 +1614,10 @@
         "post_date": "2019-04-12 11:55:33",
         "purchase_date": "2019-04-09 21:46:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10388150"
     },
     {
-        "opinion_id": "8262116",
         "author": "Mariola",
         "recommendation": true,
         "stars": 5.0,
@@ -1629,10 +1628,10 @@
         "post_date": "2018-08-20 07:16:53",
         "purchase_date": "2018-08-07 07:31:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8262116"
     },
     {
-        "opinion_id": "5120062",
         "author": "cinnamonne85",
         "recommendation": true,
         "stars": 5.0,
@@ -1643,10 +1642,10 @@
         "post_date": "2017-10-12 12:24:13",
         "purchase_date": "2017-10-01 23:39:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5120062"
     },
     {
-        "opinion_id": "4508602",
         "author": "Jolanda",
         "recommendation": true,
         "stars": 5.0,
@@ -1657,10 +1656,10 @@
         "post_date": "2017-03-21 13:19:34",
         "purchase_date": "2017-02-25 01:03:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4508602"
     },
     {
-        "opinion_id": "12462359",
         "author": "a...e",
         "recommendation": true,
         "stars": 5.0,
@@ -1671,10 +1670,10 @@
         "post_date": "2020-05-19 14:21:03",
         "purchase_date": "2020-04-02 17:26:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12462359"
     },
     {
-        "opinion_id": "3617883",
         "author": "Jaskier",
         "recommendation": true,
         "stars": 4.0,
@@ -1685,10 +1684,10 @@
         "post_date": "2016-03-03 11:13:23",
         "purchase_date": "2016-02-29 11:40:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3617883"
     },
     {
-        "opinion_id": "3402435",
         "author": "Katarzynka",
         "recommendation": true,
         "stars": 5.0,
@@ -1699,10 +1698,10 @@
         "post_date": "2015-11-04 23:09:20",
         "purchase_date": "2015-09-06 10:57:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3402435"
     },
     {
-        "opinion_id": "3878333",
         "author": "K78K",
         "recommendation": true,
         "stars": 5.0,
@@ -1718,10 +1717,10 @@
         "post_date": "2016-08-11 22:28:22",
         "purchase_date": "2016-07-26 12:31:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3878333"
     },
     {
-        "opinion_id": "3970935",
         "author": "natalka6",
         "recommendation": true,
         "stars": 5.0,
@@ -1740,10 +1739,10 @@
         "post_date": "2016-09-21 19:01:30",
         "purchase_date": "2016-09-16 20:12:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3970935"
     },
     {
-        "opinion_id": "4245184",
         "author": "KK",
         "recommendation": true,
         "stars": 5.0,
@@ -1754,10 +1753,10 @@
         "post_date": "2016-11-29 22:37:50",
         "purchase_date": "2016-11-18 16:35:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4245184"
     },
     {
-        "opinion_id": "2955648",
         "author": "Joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -1773,10 +1772,10 @@
         "post_date": "2015-01-23 09:53:42",
         "purchase_date": "2015-01-05 14:10:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2955648"
     },
     {
-        "opinion_id": "8704101",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -1787,10 +1786,10 @@
         "post_date": "2018-12-10 08:33:57",
         "purchase_date": "2018-11-23 23:53:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8704101"
     },
     {
-        "opinion_id": "11224770",
         "author": "Aleksandra",
         "recommendation": true,
         "stars": 4.0,
@@ -1854,10 +1853,10 @@
         "post_date": "2019-11-01 18:09:59",
         "purchase_date": "2019-10-17 10:43:25",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11224770"
     },
     {
-        "opinion_id": "6712286",
         "author": "magdich",
         "recommendation": true,
         "stars": 5.0,
@@ -1868,10 +1867,10 @@
         "post_date": "2018-03-14 17:28:22",
         "purchase_date": "2018-02-28 13:45:30",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6712286"
     },
     {
-        "opinion_id": "8589697",
         "author": "PrzEd",
         "recommendation": true,
         "stars": 5.0,
@@ -1888,10 +1887,10 @@
         "post_date": "2018-11-20 10:51:16",
         "purchase_date": "2018-11-07 10:54:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8589697"
     },
     {
-        "opinion_id": "11276114",
         "author": "Oliwia",
         "recommendation": true,
         "stars": 5.0,
@@ -1977,10 +1976,10 @@
         "post_date": "2019-11-14 18:28:09",
         "purchase_date": "2019-10-14 15:59:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11276114"
     },
     {
-        "opinion_id": "8616350",
         "author": "Kasia",
         "recommendation": true,
         "stars": 5.0,
@@ -2003,10 +2002,10 @@
         "post_date": "2018-11-26 13:27:29",
         "purchase_date": "2018-11-17 14:58:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8616350"
     },
     {
-        "opinion_id": "7784644",
         "author": "Sylwia",
         "recommendation": true,
         "stars": 5.0,
@@ -2023,10 +2022,10 @@
         "post_date": "2018-03-30 12:42:36",
         "purchase_date": "2018-03-17 11:00:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7784644"
     },
     {
-        "opinion_id": "4689378",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -2037,10 +2036,10 @@
         "post_date": "2017-05-23 12:36:27",
         "purchase_date": "2017-05-11 08:50:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4689378"
     },
     {
-        "opinion_id": "2858627",
         "author": "Eliza",
         "recommendation": true,
         "stars": 5.0,
@@ -2051,10 +2050,10 @@
         "post_date": "2014-12-11 21:49:51",
         "purchase_date": "2014-12-03 18:44:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2858627"
     },
     {
-        "opinion_id": "13921184",
         "author": "a...b",
         "recommendation": true,
         "stars": 4.0,
@@ -2065,10 +2064,10 @@
         "post_date": "2021-02-09 08:24:51",
         "purchase_date": "2021-01-27 18:25:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13921184"
     },
     {
-        "opinion_id": "10914178",
         "author": "edyta",
         "recommendation": true,
         "stars": 5.0,
@@ -2083,10 +2082,10 @@
         "post_date": "2019-08-13 19:42:47",
         "purchase_date": "2019-07-23 19:15:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10914178"
     },
     {
-        "opinion_id": "9003181",
         "author": "Wioleq",
         "recommendation": true,
         "stars": 5.0,
@@ -2099,10 +2098,10 @@
         "post_date": "2019-01-29 11:15:56",
         "purchase_date": "2019-01-16 13:05:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "9003181"
     },
     {
-        "opinion_id": "6433544",
         "author": "anett",
         "recommendation": true,
         "stars": 4.0,
@@ -2119,10 +2118,10 @@
         "post_date": "2018-01-04 13:26:16",
         "purchase_date": "2017-12-05 11:51:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6433544"
     },
     {
-        "opinion_id": "3117058",
         "author": "gedyta80",
         "recommendation": true,
         "stars": 5.0,
@@ -2133,10 +2132,10 @@
         "post_date": "2015-04-29 13:33:48",
         "purchase_date": "2015-04-15 08:31:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3117058"
     },
     {
-        "opinion_id": "12026666",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -2147,10 +2146,10 @@
         "post_date": "2020-03-31 14:37:04",
         "purchase_date": "2020-03-17 11:00:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12026666"
     },
     {
-        "opinion_id": "11101190",
         "author": "adabekalarek",
         "recommendation": null,
         "stars": 3.0,
@@ -2179,10 +2178,10 @@
         "post_date": "2019-10-26 16:58:21",
         "purchase_date": "2019-09-26 09:13:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11101190"
     },
     {
-        "opinion_id": "8211925",
         "author": "Irena",
         "recommendation": true,
         "stars": 5.0,
@@ -2199,10 +2198,10 @@
         "post_date": "2018-08-03 18:59:12",
         "purchase_date": "2018-07-31 10:29:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8211925"
     },
     {
-        "opinion_id": "2869160",
         "author": "Joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -2217,10 +2216,10 @@
         "post_date": "2014-12-17 13:48:31",
         "purchase_date": "2014-12-09 20:23:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2869160"
     },
     {
-        "opinion_id": "8993659",
         "author": "AnnJ",
         "recommendation": true,
         "stars": 5.0,
@@ -2267,10 +2266,10 @@
         "post_date": "2019-01-26 21:53:54",
         "purchase_date": "2019-01-13 11:04:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8993659"
     },
     {
-        "opinion_id": "2997216",
         "author": "Jolciach",
         "recommendation": true,
         "stars": 5.0,
@@ -2281,10 +2280,10 @@
         "post_date": "2015-02-13 20:44:24",
         "purchase_date": "2015-02-09 18:44:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2997216"
     },
     {
-        "opinion_id": "2839142",
         "author": "Anna",
         "recommendation": true,
         "stars": 4.5,
@@ -2299,10 +2298,10 @@
         "post_date": "2014-12-01 22:47:13",
         "purchase_date": "2014-11-13 19:47:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2839142"
     },
     {
-        "opinion_id": "10424603",
         "author": "Gosi.at",
         "recommendation": true,
         "stars": 5.0,
@@ -2338,10 +2337,10 @@
         "post_date": "2019-04-20 22:28:40",
         "purchase_date": "2019-04-10 17:08:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10424603"
     },
     {
-        "opinion_id": "4707676",
         "author": "halina",
         "recommendation": true,
         "stars": 5.0,
@@ -2352,10 +2351,10 @@
         "post_date": "2017-05-29 11:25:08",
         "purchase_date": "2017-05-23 22:15:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4707676"
     },
     {
-        "opinion_id": "3530351",
         "author": "Kamila",
         "recommendation": true,
         "stars": 5.0,
@@ -2370,10 +2369,10 @@
         "post_date": "2016-01-13 13:16:09",
         "purchase_date": "2016-01-04 19:08:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3530351"
     },
     {
-        "opinion_id": "4562343",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 4.0,
@@ -2384,10 +2383,10 @@
         "post_date": "2017-04-11 20:02:15",
         "purchase_date": "2017-04-08 18:02:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4562343"
     },
     {
-        "opinion_id": "10201554",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -2408,10 +2407,10 @@
         "post_date": "2019-03-06 16:28:35",
         "purchase_date": "2019-02-23 00:02:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10201554"
     },
     {
-        "opinion_id": "4287505",
         "author": "Magda",
         "recommendation": true,
         "stars": 5.0,
@@ -2422,10 +2421,10 @@
         "post_date": "2016-12-15 09:11:32",
         "purchase_date": "2016-11-23 09:44:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4287505"
     },
     {
-        "opinion_id": "8425620",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -2436,10 +2435,10 @@
         "post_date": "2018-10-09 19:00:58",
         "purchase_date": "2018-10-04 09:11:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8425620"
     },
     {
-        "opinion_id": "8059751",
         "author": "Anna K.",
         "recommendation": true,
         "stars": 5.0,
@@ -2481,10 +2480,10 @@
         "post_date": "2018-06-18 22:14:06",
         "purchase_date": "2018-06-07 22:50:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8059751"
     },
     {
-        "opinion_id": "3763100",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -2497,10 +2496,10 @@
         "post_date": "2016-05-29 17:05:49",
         "purchase_date": "2016-05-08 22:52:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3763100"
     },
     {
-        "opinion_id": "11078316",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 4.0,
@@ -2511,10 +2510,10 @@
         "post_date": "2019-09-25 06:16:59",
         "purchase_date": "2019-09-18 15:42:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11078316"
     },
     {
-        "opinion_id": "10201110",
         "author": "Basia",
         "recommendation": true,
         "stars": 5.0,
@@ -2531,10 +2530,10 @@
         "post_date": "2019-03-06 15:19:17",
         "purchase_date": "2019-02-06 22:20:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10201110"
     },
     {
-        "opinion_id": "11425303",
         "author": "aleksandra moron",
         "recommendation": true,
         "stars": 5.0,
@@ -2549,10 +2548,10 @@
         "post_date": "2019-12-13 15:19:30",
         "purchase_date": "2019-12-09 18:51:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11425303"
     },
     {
-        "opinion_id": "3103099",
         "author": "xyz",
         "recommendation": true,
         "stars": 5.0,
@@ -2566,10 +2565,10 @@
         "post_date": "2015-04-22 12:22:20",
         "purchase_date": "2015-04-07 12:29:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3103099"
     },
     {
-        "opinion_id": "4807947",
         "author": "Beata",
         "recommendation": true,
         "stars": 5.0,
@@ -2580,10 +2579,10 @@
         "post_date": "2017-06-30 18:19:33",
         "purchase_date": "2017-06-20 22:13:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4807947"
     },
     {
-        "opinion_id": "13769791",
         "author": "i...7",
         "recommendation": true,
         "stars": 5.0,
@@ -2599,10 +2598,10 @@
         "post_date": "2021-01-14 11:48:50",
         "purchase_date": "2021-01-08 18:03:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13769791"
     },
     {
-        "opinion_id": "12216667",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -2613,10 +2612,10 @@
         "post_date": "2020-04-22 09:20:26",
         "purchase_date": "2020-03-27 20:00:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12216667"
     },
     {
-        "opinion_id": "3763551",
         "author": "Dana",
         "recommendation": true,
         "stars": 5.0,
@@ -2631,10 +2630,10 @@
         "post_date": "2016-05-30 00:28:40",
         "purchase_date": "2016-05-17 19:57:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3763551"
     },
     {
-        "opinion_id": "14158542",
         "author": "k...0",
         "recommendation": true,
         "stars": 4.0,
@@ -2654,10 +2653,10 @@
         "post_date": "2021-03-22 17:22:50",
         "purchase_date": "2021-02-19 17:26:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14158542"
     },
     {
-        "opinion_id": "8397210",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -2668,10 +2667,10 @@
         "post_date": "2018-10-01 16:15:57",
         "purchase_date": "2018-09-19 21:49:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8397210"
     },
     {
-        "opinion_id": "4642893",
         "author": "Dominika",
         "recommendation": true,
         "stars": 4.5,
@@ -2682,10 +2681,10 @@
         "post_date": "2017-05-08 18:08:22",
         "purchase_date": "2017-04-13 22:15:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4642893"
     },
     {
-        "opinion_id": "12373836",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -2696,10 +2695,10 @@
         "post_date": "2020-05-08 11:10:21",
         "purchase_date": "2020-04-06 12:02:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12373836"
     },
     {
-        "opinion_id": "7974749",
         "author": "Patrycja",
         "recommendation": false,
         "stars": 1.0,
@@ -2725,10 +2724,10 @@
         "post_date": "2018-05-21 07:34:30",
         "purchase_date": "2018-04-04 14:31:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7974749"
     },
     {
-        "opinion_id": "6626881",
         "author": "Mysecondlifee",
         "recommendation": true,
         "stars": 5.0,
@@ -2745,10 +2744,10 @@
         "post_date": "2018-02-22 12:28:20",
         "purchase_date": "2018-02-17 17:15:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6626881"
     },
     {
-        "opinion_id": "13491135",
         "author": "a...a",
         "recommendation": true,
         "stars": 4.5,
@@ -2769,10 +2768,10 @@
         "post_date": "2020-12-02 20:12:45",
         "purchase_date": "2020-11-06 21:07:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13491135"
     },
     {
-        "opinion_id": "4501064",
         "author": "Monika",
         "recommendation": true,
         "stars": 5.0,
@@ -2783,10 +2782,10 @@
         "post_date": "2017-03-17 14:19:11",
         "purchase_date": "2017-02-16 10:20:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4501064"
     },
     {
-        "opinion_id": "4339674",
         "author": "Kasia",
         "recommendation": true,
         "stars": 5.0,
@@ -2797,10 +2796,10 @@
         "post_date": "2017-01-09 20:25:05",
         "purchase_date": "2016-12-29 21:38:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4339674"
     },
     {
-        "opinion_id": "13154182",
         "author": "e...0",
         "recommendation": true,
         "stars": 5.0,
@@ -2816,10 +2815,10 @@
         "post_date": "2020-10-02 13:45:08",
         "purchase_date": "2020-04-21 13:25:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13154182"
     },
     {
-        "opinion_id": "6236859",
         "author": "silaczka",
         "recommendation": true,
         "stars": 5.0,
@@ -2835,10 +2834,10 @@
         "post_date": "2017-11-21 21:41:25",
         "purchase_date": "2017-11-09 17:28:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6236859"
     },
     {
-        "opinion_id": "10292621",
         "author": "Dona",
         "recommendation": true,
         "stars": 5.0,
@@ -2849,10 +2848,10 @@
         "post_date": "2019-03-24 15:02:00",
         "purchase_date": "2019-03-12 18:40:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10292621"
     },
     {
-        "opinion_id": "4750783",
         "author": "patprusaczyk",
         "recommendation": true,
         "stars": 5.0,
@@ -2863,10 +2862,10 @@
         "post_date": "2017-06-12 11:47:01",
         "purchase_date": "2017-05-31 18:43:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4750783"
     },
     {
-        "opinion_id": "4517405",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -2877,10 +2876,10 @@
         "post_date": "2017-03-23 21:11:23",
         "purchase_date": "2017-03-01 19:45:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4517405"
     },
     {
-        "opinion_id": "8292503",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 4.0,
@@ -2891,10 +2890,10 @@
         "post_date": "2018-08-28 13:45:53",
         "purchase_date": "2018-08-22 14:50:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8292503"
     },
     {
-        "opinion_id": "3359549",
         "author": "M.",
         "recommendation": true,
         "stars": 5.0,
@@ -2905,10 +2904,10 @@
         "post_date": "2015-10-09 11:44:13",
         "purchase_date": "2015-09-26 10:05:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3359549"
     },
     {
-        "opinion_id": "12100181",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 4.0,
@@ -2919,10 +2918,10 @@
         "post_date": "2020-04-08 23:36:25",
         "purchase_date": "2020-03-24 13:16:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12100181"
     },
     {
-        "opinion_id": "5143908",
         "author": "Paulina",
         "recommendation": true,
         "stars": 5.0,
@@ -2933,10 +2932,10 @@
         "post_date": "2017-10-20 11:42:47",
         "purchase_date": "2017-10-17 12:34:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5143908"
     },
     {
-        "opinion_id": "3898763",
         "author": "Klaudia",
         "recommendation": true,
         "stars": 5.0,
@@ -2951,10 +2950,10 @@
         "post_date": "2016-08-24 09:35:12",
         "purchase_date": "2016-07-30 17:37:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3898763"
     },
     {
-        "opinion_id": "6372023",
         "author": "MaGDaLeNa",
         "recommendation": true,
         "stars": 4.5,
@@ -2976,10 +2975,10 @@
         "post_date": "2017-12-20 13:56:36",
         "purchase_date": "2017-12-09 12:49:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6372023"
     },
     {
-        "opinion_id": "11612032",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -2990,10 +2989,10 @@
         "post_date": "2020-01-20 20:58:21",
         "purchase_date": "2020-01-15 10:49:30",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11612032"
     },
     {
-        "opinion_id": "4520722",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 4.0,
@@ -3004,10 +3003,10 @@
         "post_date": "2017-03-24 21:05:16",
         "purchase_date": "2017-03-11 20:41:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4520722"
     },
     {
-        "opinion_id": "10950094",
         "author": "MissED",
         "recommendation": true,
         "stars": 5.0,
@@ -3023,10 +3022,10 @@
         "post_date": "2019-08-22 10:34:54",
         "purchase_date": "2019-08-14 23:11:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10950094"
     },
     {
-        "opinion_id": "10327430",
         "author": "K...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3045,10 +3044,10 @@
         "post_date": "2019-03-31 10:43:00",
         "purchase_date": "2019-03-10 11:06:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10327430"
     },
     {
-        "opinion_id": "6659326",
         "author": "Klaudia",
         "recommendation": true,
         "stars": 5.0,
@@ -3059,10 +3058,10 @@
         "post_date": "2018-03-01 10:07:16",
         "purchase_date": "2018-02-09 08:22:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6659326"
     },
     {
-        "opinion_id": "3680786",
         "author": "Maja",
         "recommendation": null,
         "stars": 3.5,
@@ -3073,10 +3072,10 @@
         "post_date": "2016-04-07 14:45:14",
         "purchase_date": "2016-02-28 12:06:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3680786"
     },
     {
-        "opinion_id": "11796959",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -3087,10 +3086,10 @@
         "post_date": "2020-02-24 20:32:37",
         "purchase_date": "2020-02-12 19:19:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11796959"
     },
     {
-        "opinion_id": "10766757",
         "author": "TTRR",
         "recommendation": true,
         "stars": 5.0,
@@ -3107,10 +3106,10 @@
         "post_date": "2019-07-10 17:23:43",
         "purchase_date": "2019-07-03 16:37:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10766757"
     },
     {
-        "opinion_id": "8218657",
         "author": "Ola",
         "recommendation": true,
         "stars": 5.0,
@@ -3121,10 +3120,10 @@
         "post_date": "2018-08-07 09:13:32",
         "purchase_date": "2018-04-30 15:39:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8218657"
     },
     {
-        "opinion_id": "4687656",
         "author": "ula",
         "recommendation": true,
         "stars": 4.5,
@@ -3135,10 +3134,10 @@
         "post_date": "2017-05-22 23:23:52",
         "purchase_date": "2017-05-16 21:51:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4687656"
     },
     {
-        "opinion_id": "4011104",
         "author": "Marta",
         "recommendation": true,
         "stars": 4.5,
@@ -3149,10 +3148,10 @@
         "post_date": "2016-10-05 21:05:37",
         "purchase_date": "2016-09-30 16:15:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4011104"
     },
     {
-        "opinion_id": "3870177",
         "author": "BeataZuzia",
         "recommendation": true,
         "stars": 5.0,
@@ -3167,10 +3166,10 @@
         "post_date": "2016-08-08 15:32:19",
         "purchase_date": "2016-07-19 13:19:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3870177"
     },
     {
-        "opinion_id": "3630814",
         "author": "Monika Z",
         "recommendation": true,
         "stars": 5.0,
@@ -3186,10 +3185,10 @@
         "post_date": "2016-03-07 23:48:32",
         "purchase_date": "2016-02-28 19:09:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3630814"
     },
     {
-        "opinion_id": "3176423",
         "author": "Zelcia",
         "recommendation": true,
         "stars": 5.0,
@@ -3200,10 +3199,10 @@
         "post_date": "2015-06-03 21:25:25",
         "purchase_date": "2015-05-29 09:48:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3176423"
     },
     {
-        "opinion_id": "5224891",
         "author": "basik12345",
         "recommendation": true,
         "stars": 4.5,
@@ -3214,10 +3213,10 @@
         "post_date": "2017-11-15 12:23:55",
         "purchase_date": "2017-11-03 11:58:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5224891"
     },
     {
-        "opinion_id": "10996868",
         "author": "cmf karolina",
         "recommendation": true,
         "stars": 5.0,
@@ -3234,10 +3233,10 @@
         "post_date": "2019-09-03 10:27:22",
         "purchase_date": "2019-08-29 17:26:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10996868"
     },
     {
-        "opinion_id": "4344841",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -3248,10 +3247,10 @@
         "post_date": "2017-01-12 10:37:58",
         "purchase_date": "2017-01-03 12:15:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4344841"
     },
     {
-        "opinion_id": "8916637",
         "author": "Marta",
         "recommendation": true,
         "stars": 5.0,
@@ -3299,10 +3298,10 @@
         "post_date": "2019-01-13 12:03:23",
         "purchase_date": "2018-12-13 12:45:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8916637"
     },
     {
-        "opinion_id": "8130616",
         "author": "Justyna",
         "recommendation": true,
         "stars": 5.0,
@@ -3320,10 +3319,10 @@
         "post_date": "2018-07-12 11:32:47",
         "purchase_date": "2018-06-27 16:16:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8130616"
     },
     {
-        "opinion_id": "3638259",
         "author": "martita",
         "recommendation": true,
         "stars": 5.0,
@@ -3334,10 +3333,10 @@
         "post_date": "2016-03-12 19:45:52",
         "purchase_date": "2016-02-11 21:31:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3638259"
     },
     {
-        "opinion_id": "2792759",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -3348,10 +3347,10 @@
         "post_date": "2014-11-03 09:20:37",
         "purchase_date": "2014-10-26 13:30:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2792759"
     },
     {
-        "opinion_id": "13143325",
         "author": "j...o",
         "recommendation": true,
         "stars": 5.0,
@@ -3371,10 +3370,10 @@
         "post_date": "2020-09-30 07:44:07",
         "purchase_date": "2020-09-04 21:32:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13143325"
     },
     {
-        "opinion_id": "8920603",
         "author": "kpolak4346",
         "recommendation": true,
         "stars": 5.0,
@@ -3385,10 +3384,10 @@
         "post_date": "2019-01-14 10:06:53",
         "purchase_date": "2019-01-09 10:42:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8920603"
     },
     {
-        "opinion_id": "2983235",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -3399,10 +3398,10 @@
         "post_date": "2015-02-03 18:33:56",
         "purchase_date": "2015-01-13 22:08:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2983235"
     },
     {
-        "opinion_id": "4629812",
         "author": "Marlena",
         "recommendation": null,
         "stars": 3.0,
@@ -3413,10 +3412,10 @@
         "post_date": "2017-05-04 10:49:10",
         "purchase_date": "2017-04-13 09:16:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4629812"
     },
     {
-        "opinion_id": "10846952",
         "author": "Moniqua79",
         "recommendation": true,
         "stars": 4.5,
@@ -3488,10 +3487,10 @@
         "post_date": "2019-07-29 11:21:21",
         "purchase_date": "2019-06-28 13:40:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10846952"
     },
     {
-        "opinion_id": "10435141",
         "author": "Eliza7",
         "recommendation": true,
         "stars": 5.0,
@@ -3508,10 +3507,10 @@
         "post_date": "2019-04-24 10:48:43",
         "purchase_date": "2019-04-12 08:21:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10435141"
     },
     {
-        "opinion_id": "11514699",
         "author": "AKK",
         "recommendation": true,
         "stars": 5.0,
@@ -3528,10 +3527,10 @@
         "post_date": "2020-01-01 16:28:42",
         "purchase_date": "2019-12-11 02:07:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11514699"
     },
     {
-        "opinion_id": "3892142",
         "author": "Karolina",
         "recommendation": true,
         "stars": 5.0,
@@ -3547,10 +3546,10 @@
         "post_date": "2016-08-19 22:35:00",
         "purchase_date": "2016-08-04 18:52:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3892142"
     },
     {
-        "opinion_id": "4166643",
         "author": "Asia",
         "recommendation": true,
         "stars": 5.0,
@@ -3561,10 +3560,10 @@
         "post_date": "2016-11-08 20:08:36",
         "purchase_date": "2016-10-15 19:34:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4166643"
     },
     {
-        "opinion_id": "8388964",
         "author": "Monika",
         "recommendation": true,
         "stars": 5.0,
@@ -3586,10 +3585,10 @@
         "post_date": "2018-09-28 11:11:10",
         "purchase_date": "2018-09-16 08:58:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8388964"
     },
     {
-        "opinion_id": "3657746",
         "author": "Agata",
         "recommendation": true,
         "stars": 5.0,
@@ -3603,10 +3602,10 @@
         "post_date": "2016-03-24 20:30:04",
         "purchase_date": "2016-03-08 17:05:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3657746"
     },
     {
-        "opinion_id": "11165786",
         "author": "ewelinadoris",
         "recommendation": true,
         "stars": 5.0,
@@ -3630,10 +3629,10 @@
         "post_date": "2019-10-17 12:03:54",
         "purchase_date": "2019-10-06 00:50:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11165786"
     },
     {
-        "opinion_id": "3708088",
         "author": "negri",
         "recommendation": true,
         "stars": 5.0,
@@ -3659,10 +3658,10 @@
         "post_date": "2016-04-22 11:29:48",
         "purchase_date": "2016-04-11 19:19:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3708088"
     },
     {
-        "opinion_id": "4516625",
         "author": "monikamiller0",
         "recommendation": true,
         "stars": 5.0,
@@ -3673,10 +3672,10 @@
         "post_date": "2017-03-23 17:18:57",
         "purchase_date": "2017-02-22 18:53:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4516625"
     },
     {
-        "opinion_id": "3933920",
         "author": "pati",
         "recommendation": true,
         "stars": 5.0,
@@ -3691,10 +3690,10 @@
         "post_date": "2016-09-09 01:38:43",
         "purchase_date": "2016-08-16 17:30:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3933920"
     },
     {
-        "opinion_id": "10805588",
         "author": "Iwona",
         "recommendation": true,
         "stars": 5.0,
@@ -3705,10 +3704,10 @@
         "post_date": "2019-07-19 04:22:31",
         "purchase_date": "2019-07-14 10:44:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10805588"
     },
     {
-        "opinion_id": "4944713",
         "author": "NATALAJ",
         "recommendation": true,
         "stars": 4.5,
@@ -3727,10 +3726,10 @@
         "post_date": "2017-08-15 16:11:42",
         "purchase_date": "2017-07-25 18:10:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4944713"
     },
     {
-        "opinion_id": "4394736",
         "author": "DominikaK",
         "recommendation": true,
         "stars": 4.5,
@@ -3741,10 +3740,10 @@
         "post_date": "2017-02-01 11:22:14",
         "purchase_date": "2017-01-23 10:19:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4394736"
     },
     {
-        "opinion_id": "3761314",
         "author": "Grażyna",
         "recommendation": true,
         "stars": 4.0,
@@ -3758,10 +3757,10 @@
         "post_date": "2016-05-27 20:46:02",
         "purchase_date": "2016-05-11 10:01:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3761314"
     },
     {
-        "opinion_id": "4912905",
         "author": "K...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3772,10 +3771,10 @@
         "post_date": "2017-08-03 18:53:39",
         "purchase_date": "2017-07-19 11:39:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4912905"
     },
     {
-        "opinion_id": "10603921",
         "author": "Martyna",
         "recommendation": true,
         "stars": 4.0,
@@ -3793,10 +3792,10 @@
         "post_date": "2019-05-31 23:49:14",
         "purchase_date": "2019-05-28 07:42:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10603921"
     },
     {
-        "opinion_id": "8307300",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -3813,10 +3812,10 @@
         "post_date": "2018-09-01 10:39:39",
         "purchase_date": "2018-07-15 15:00:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8307300"
     },
     {
-        "opinion_id": "3397203",
         "author": "magpac",
         "recommendation": true,
         "stars": 5.0,
@@ -3827,10 +3826,10 @@
         "post_date": "2015-11-02 13:58:27",
         "purchase_date": "2015-10-05 11:15:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3397203"
     },
     {
-        "opinion_id": "3033951",
         "author": "teresa",
         "recommendation": true,
         "stars": 5.0,
@@ -3841,10 +3840,10 @@
         "post_date": "2015-03-07 10:36:21",
         "purchase_date": "2015-02-22 10:09:14",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3033951"
     },
     {
-        "opinion_id": "8952779",
         "author": "AniaK",
         "recommendation": true,
         "stars": 5.0,
@@ -3870,10 +3869,10 @@
         "post_date": "2019-01-18 16:36:28",
         "purchase_date": "2019-01-12 22:02:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8952779"
     },
     {
-        "opinion_id": "10100206",
         "author": "Emilia",
         "recommendation": true,
         "stars": 5.0,
@@ -3898,10 +3897,10 @@
         "post_date": "2019-02-14 14:30:14",
         "purchase_date": "2019-01-22 14:14:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10100206"
     },
     {
-        "opinion_id": "6652090",
         "author": "Magda",
         "recommendation": true,
         "stars": 4.0,
@@ -3915,10 +3914,10 @@
         "post_date": "2018-02-28 09:53:02",
         "purchase_date": "2018-02-08 12:32:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6652090"
     },
     {
-        "opinion_id": "5108653",
         "author": "Patrycja",
         "recommendation": true,
         "stars": 5.0,
@@ -3940,10 +3939,10 @@
         "post_date": "2017-10-08 15:49:01",
         "purchase_date": "2017-08-30 19:58:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5108653"
     },
     {
-        "opinion_id": "4325950",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 5.0,
@@ -3954,10 +3953,10 @@
         "post_date": "2017-01-02 21:16:00",
         "purchase_date": "2016-11-11 17:34:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4325950"
     },
     {
-        "opinion_id": "5011499",
         "author": "w...a",
         "recommendation": true,
         "stars": 5.0,
@@ -4000,10 +3999,10 @@
         "post_date": "2017-09-05 23:41:16",
         "purchase_date": "2017-08-10 22:45:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5011499"
     },
     {
-        "opinion_id": "10258490",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -4020,10 +4019,10 @@
         "post_date": "2019-03-17 14:49:24",
         "purchase_date": "2019-02-15 08:02:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10258490"
     },
     {
-        "opinion_id": "4429769",
         "author": "Sylwia",
         "recommendation": true,
         "stars": 5.0,
@@ -4034,10 +4033,10 @@
         "post_date": "2017-02-14 12:22:46",
         "purchase_date": "2017-01-21 17:01:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4429769"
     },
     {
-        "opinion_id": "3641381",
         "author": "Laura",
         "recommendation": true,
         "stars": 5.0,
@@ -4048,10 +4047,10 @@
         "post_date": "2016-03-15 12:03:45",
         "purchase_date": "2016-03-07 22:29:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3641381"
     },
     {
-        "opinion_id": "2858722",
         "author": "Alexandra",
         "recommendation": true,
         "stars": 5.0,
@@ -4062,10 +4061,10 @@
         "post_date": "2014-12-11 22:16:15",
         "purchase_date": "2014-11-26 14:40:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2858722"
     },
     {
-        "opinion_id": "3728958",
         "author": "gosza",
         "recommendation": true,
         "stars": 4.5,
@@ -4086,10 +4085,10 @@
         "post_date": "2016-05-05 12:35:48",
         "purchase_date": "2016-04-19 09:31:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3728958"
     },
     {
-        "opinion_id": "3199392",
         "author": "bamboocha",
         "recommendation": true,
         "stars": 5.0,
@@ -4105,10 +4104,10 @@
         "post_date": "2015-06-19 11:35:25",
         "purchase_date": "2015-06-06 21:31:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3199392"
     },
     {
-        "opinion_id": "4945247",
         "author": "Ela",
         "recommendation": true,
         "stars": 5.0,
@@ -4119,10 +4118,10 @@
         "post_date": "2017-08-15 20:58:18",
         "purchase_date": "2017-08-03 19:38:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4945247"
     },
     {
-        "opinion_id": "14133232",
         "author": "s...8",
         "recommendation": true,
         "stars": 5.0,
@@ -4138,10 +4137,10 @@
         "post_date": "2021-03-17 19:45:11",
         "purchase_date": "2021-03-07 18:50:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14133232"
     },
     {
-        "opinion_id": "4652935",
         "author": "Arleta",
         "recommendation": true,
         "stars": 5.0,
@@ -4152,10 +4151,10 @@
         "post_date": "2017-05-11 10:33:09",
         "purchase_date": "2017-04-20 13:06:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4652935"
     },
     {
-        "opinion_id": "4374498",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -4166,10 +4165,10 @@
         "post_date": "2017-01-25 17:32:36",
         "purchase_date": "2017-01-16 09:50:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4374498"
     },
     {
-        "opinion_id": "8859800",
         "author": "sandra",
         "recommendation": true,
         "stars": 4.5,
@@ -4186,10 +4185,10 @@
         "post_date": "2019-01-04 10:56:18",
         "purchase_date": "2018-12-17 16:51:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8859800"
     },
     {
-        "opinion_id": "12540985",
         "author": "Patrycja",
         "recommendation": true,
         "stars": 5.0,
@@ -4200,10 +4199,10 @@
         "post_date": "2020-05-28 16:37:40",
         "purchase_date": "2020-04-02 13:10:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12540985"
     },
     {
-        "opinion_id": "11635051",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -4214,10 +4213,10 @@
         "post_date": "2020-01-24 12:04:37",
         "purchase_date": "2020-01-15 16:54:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11635051"
     },
     {
-        "opinion_id": "4405648",
         "author": "an",
         "recommendation": true,
         "stars": 5.0,
@@ -4228,10 +4227,10 @@
         "post_date": "2017-02-04 20:18:44",
         "purchase_date": "2016-12-26 18:13:14",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4405648"
     },
     {
-        "opinion_id": "3196263",
         "author": "KBeata",
         "recommendation": true,
         "stars": 5.0,
@@ -4245,10 +4244,10 @@
         "post_date": "2015-06-17 10:45:18",
         "purchase_date": "2015-06-02 11:24:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3196263"
     },
     {
-        "opinion_id": "12524288",
         "author": "d...c",
         "recommendation": true,
         "stars": 5.0,
@@ -4264,10 +4263,10 @@
         "post_date": "2020-05-27 07:56:23",
         "purchase_date": "2020-05-06 14:38:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12524288"
     },
     {
-        "opinion_id": "11768639",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -4278,10 +4277,10 @@
         "post_date": "2020-02-19 11:51:05",
         "purchase_date": "2020-02-10 22:47:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11768639"
     },
     {
-        "opinion_id": "3554332",
         "author": "Małgorzata",
         "recommendation": true,
         "stars": 4.0,
@@ -4297,10 +4296,10 @@
         "post_date": "2016-01-27 20:01:06",
         "purchase_date": "2016-01-05 13:43:17",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "3554332"
     },
     {
-        "opinion_id": "3013538",
         "author": "Jolanta",
         "recommendation": true,
         "stars": 5.0,
@@ -4311,10 +4310,10 @@
         "post_date": "2015-02-23 10:29:02",
         "purchase_date": "2015-02-09 11:00:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3013538"
     },
     {
-        "opinion_id": "2756670",
         "author": "Paulina",
         "recommendation": true,
         "stars": 5.0,
@@ -4325,10 +4324,10 @@
         "post_date": "2014-10-07 01:24:47",
         "purchase_date": "2014-09-19 20:31:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2756670"
     },
     {
-        "opinion_id": "13160581",
         "author": "k...a",
         "recommendation": true,
         "stars": 5.0,
@@ -4345,10 +4344,10 @@
         "post_date": "2020-10-05 11:17:15",
         "purchase_date": "2020-09-28 16:43:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13160581"
     },
     {
-        "opinion_id": "4808992",
         "author": "Ewelina",
         "recommendation": true,
         "stars": 5.0,
@@ -4359,10 +4358,10 @@
         "post_date": "2017-07-01 10:32:38",
         "purchase_date": "2017-06-23 22:00:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4808992"
     },
     {
-        "opinion_id": "8197693",
         "author": "Paulina",
         "recommendation": true,
         "stars": 5.0,
@@ -4380,10 +4379,10 @@
         "post_date": "2018-07-31 14:48:16",
         "purchase_date": "2018-07-23 14:05:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8197693"
     },
     {
-        "opinion_id": "3911365",
         "author": "Dorota",
         "recommendation": true,
         "stars": 5.0,
@@ -4398,10 +4397,10 @@
         "post_date": "2016-08-30 12:08:20",
         "purchase_date": "2016-08-15 18:04:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3911365"
     },
     {
-        "opinion_id": "3648280",
         "author": "Mądrasek",
         "recommendation": true,
         "stars": 5.0,
@@ -4412,10 +4411,10 @@
         "post_date": "2016-03-19 21:42:28",
         "purchase_date": "2016-02-10 14:48:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3648280"
     },
     {
-        "opinion_id": "3336261",
         "author": "Iwona",
         "recommendation": true,
         "stars": 5.0,
@@ -4426,10 +4425,10 @@
         "post_date": "2015-09-23 20:05:09",
         "purchase_date": "2015-09-14 11:49:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3336261"
     },
     {
-        "opinion_id": "4964041",
         "author": "nathalierusman",
         "recommendation": true,
         "stars": 5.0,
@@ -4446,10 +4445,10 @@
         "post_date": "2017-08-21 18:38:29",
         "purchase_date": "2017-08-09 18:27:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4964041"
     },
     {
-        "opinion_id": "4863565",
         "author": "Ruda",
         "recommendation": true,
         "stars": 4.5,
@@ -4460,10 +4459,10 @@
         "post_date": "2017-07-19 10:55:55",
         "purchase_date": "2017-07-14 13:29:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4863565"
     },
     {
-        "opinion_id": "2790852",
         "author": "paulina",
         "recommendation": true,
         "stars": 5.0,
@@ -4474,10 +4473,10 @@
         "post_date": "2014-10-31 22:36:46",
         "purchase_date": "2014-10-24 17:26:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2790852"
     },
     {
-        "opinion_id": "11922915",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -4488,10 +4487,10 @@
         "post_date": "2020-03-17 12:23:51",
         "purchase_date": "2020-03-06 09:24:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11922915"
     },
     {
-        "opinion_id": "6249079",
         "author": "Kasia",
         "recommendation": true,
         "stars": 5.0,
@@ -4505,10 +4504,10 @@
         "post_date": "2017-11-24 11:10:40",
         "purchase_date": "2017-11-21 12:51:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6249079"
     },
     {
-        "opinion_id": "4324398",
         "author": "MagdaC",
         "recommendation": true,
         "stars": 5.0,
@@ -4519,10 +4518,10 @@
         "post_date": "2017-01-02 11:56:46",
         "purchase_date": "2016-12-20 11:20:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4324398"
     },
     {
-        "opinion_id": "3817429",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -4533,10 +4532,10 @@
         "post_date": "2016-07-11 08:40:02",
         "purchase_date": "2016-06-15 09:19:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3817429"
     },
     {
-        "opinion_id": "11266428",
         "author": "wika",
         "recommendation": true,
         "stars": 5.0,
@@ -4558,10 +4557,10 @@
         "post_date": "2019-11-13 10:48:10",
         "purchase_date": "2019-11-07 10:14:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11266428"
     },
     {
-        "opinion_id": "10711101",
         "author": "Kinga",
         "recommendation": true,
         "stars": 5.0,
@@ -4578,10 +4577,10 @@
         "post_date": "2019-06-27 12:31:17",
         "purchase_date": "2019-05-09 10:47:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10711101"
     },
     {
-        "opinion_id": "5214870",
         "author": "Robert",
         "recommendation": true,
         "stars": 5.0,
@@ -4597,10 +4596,10 @@
         "post_date": "2017-11-12 19:59:23",
         "purchase_date": "2017-11-07 12:10:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5214870"
     },
     {
-        "opinion_id": "3619023",
         "author": "Paula",
         "recommendation": true,
         "stars": 5.0,
@@ -4615,10 +4614,10 @@
         "post_date": "2016-03-03 16:13:31",
         "purchase_date": "2016-02-23 15:44:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3619023"
     },
     {
-        "opinion_id": "3522158",
         "author": "Patrycja",
         "recommendation": true,
         "stars": 5.0,
@@ -4633,10 +4632,10 @@
         "post_date": "2016-01-08 21:08:41",
         "purchase_date": "2015-12-14 19:06:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3522158"
     },
     {
-        "opinion_id": "3906838",
         "author": "Agata",
         "recommendation": true,
         "stars": 5.0,
@@ -4650,10 +4649,10 @@
         "post_date": "2016-08-27 08:27:11",
         "purchase_date": "2016-08-07 20:17:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3906838"
     },
     {
-        "opinion_id": "3132394",
         "author": "Joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -4664,10 +4663,10 @@
         "post_date": "2015-05-08 10:44:36",
         "purchase_date": "2015-03-30 23:44:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3132394"
     },
     {
-        "opinion_id": "13653426",
         "author": "d...z",
         "recommendation": true,
         "stars": 5.0,
@@ -4683,10 +4682,10 @@
         "post_date": "2020-12-26 19:24:14",
         "purchase_date": "2020-11-27 09:13:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13653426"
     },
     {
-        "opinion_id": "10629570",
         "author": "Ola",
         "recommendation": true,
         "stars": 4.0,
@@ -4741,10 +4740,10 @@
         "post_date": "2019-06-07 12:10:08",
         "purchase_date": "2019-05-07 12:43:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10629570"
     },
     {
-        "opinion_id": "10817325",
         "author": "Lena",
         "recommendation": true,
         "stars": 4.0,
@@ -4755,10 +4754,10 @@
         "post_date": "2019-07-22 12:43:46",
         "purchase_date": "2019-07-12 12:02:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10817325"
     },
     {
-        "opinion_id": "4549533",
         "author": "ewe",
         "recommendation": true,
         "stars": 4.0,
@@ -4769,10 +4768,10 @@
         "post_date": "2017-04-06 08:35:36",
         "purchase_date": "2017-03-10 15:47:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4549533"
     },
     {
-        "opinion_id": "3550132",
         "author": "karola",
         "recommendation": true,
         "stars": 4.5,
@@ -4783,10 +4782,10 @@
         "post_date": "2016-01-25 13:54:25",
         "purchase_date": "2015-12-24 20:01:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3550132"
     },
     {
-        "opinion_id": "3047473",
         "author": "marlen",
         "recommendation": true,
         "stars": 5.0,
@@ -4797,10 +4796,10 @@
         "post_date": "2015-03-17 08:07:26",
         "purchase_date": "2014-12-30 09:47:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3047473"
     },
     {
-        "opinion_id": "2741420",
         "author": "Emilia",
         "recommendation": true,
         "stars": 5.0,
@@ -4819,10 +4818,10 @@
         "post_date": "2014-09-25 10:03:19",
         "purchase_date": "2014-09-11 10:38:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2741420"
     },
     {
-        "opinion_id": "10476888",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 4.5,
@@ -4891,10 +4890,10 @@
         "post_date": "2019-05-04 08:08:54",
         "purchase_date": "2019-04-24 22:42:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10476888"
     },
     {
-        "opinion_id": "3752376",
         "author": "Elżbieta",
         "recommendation": true,
         "stars": 5.0,
@@ -4907,10 +4906,10 @@
         "post_date": "2016-05-19 22:13:55",
         "purchase_date": "2016-05-12 21:40:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3752376"
     },
     {
-        "opinion_id": "2823474",
         "author": "Emila",
         "recommendation": true,
         "stars": 5.0,
@@ -4926,10 +4925,10 @@
         "post_date": "2014-11-22 23:13:30",
         "purchase_date": "2014-09-11 10:38:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2823474"
     },
     {
-        "opinion_id": "11193998",
         "author": "Ewa",
         "recommendation": true,
         "stars": 4.5,
@@ -4945,10 +4944,10 @@
         "post_date": "2019-10-24 12:13:41",
         "purchase_date": "2019-10-21 10:44:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11193998"
     },
     {
-        "opinion_id": "10441762",
         "author": "Paulina",
         "recommendation": true,
         "stars": 5.0,
@@ -4987,10 +4986,10 @@
         "post_date": "2019-04-25 09:37:12",
         "purchase_date": "2019-04-13 12:00:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10441762"
     },
     {
-        "opinion_id": "2676974",
         "author": "aga",
         "recommendation": true,
         "stars": 5.0,
@@ -5005,10 +5004,10 @@
         "post_date": "2014-08-05 10:08:09",
         "purchase_date": "2014-07-16 12:51:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2676974"
     },
     {
-        "opinion_id": "12349086",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5019,10 +5018,10 @@
         "post_date": "2020-05-06 10:31:27",
         "purchase_date": "2020-04-14 10:54:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12349086"
     },
     {
-        "opinion_id": "11428349",
         "author": "Irena",
         "recommendation": true,
         "stars": 5.0,
@@ -5039,10 +5038,10 @@
         "post_date": "2019-12-13 23:17:28",
         "purchase_date": "2019-12-09 23:04:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11428349"
     },
     {
-        "opinion_id": "4791267",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5053,10 +5052,10 @@
         "post_date": "2017-06-26 11:52:37",
         "purchase_date": "2017-06-10 20:45:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4791267"
     },
     {
-        "opinion_id": "3398511",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5067,10 +5066,10 @@
         "post_date": "2015-11-03 09:56:39",
         "purchase_date": "2015-10-19 09:42:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3398511"
     },
     {
-        "opinion_id": "2859114",
         "author": "Marta",
         "recommendation": true,
         "stars": 5.0,
@@ -5089,10 +5088,10 @@
         "post_date": "2014-12-12 09:21:03",
         "purchase_date": "2014-12-02 09:45:44",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2859114"
     },
     {
-        "opinion_id": "3737745",
         "author": "Renata",
         "recommendation": true,
         "stars": 5.0,
@@ -5107,10 +5106,10 @@
         "post_date": "2016-05-10 23:30:54",
         "purchase_date": "2016-03-20 18:37:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3737745"
     },
     {
-        "opinion_id": "6259967",
         "author": "Emiluleczka",
         "recommendation": true,
         "stars": 5.0,
@@ -5132,10 +5131,10 @@
         "post_date": "2017-11-28 09:11:34",
         "purchase_date": "2017-11-08 11:59:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6259967"
     },
     {
-        "opinion_id": "3822572",
         "author": "Iwona",
         "recommendation": true,
         "stars": 5.0,
@@ -5146,10 +5145,10 @@
         "post_date": "2016-07-14 11:02:54",
         "purchase_date": "2016-07-04 21:16:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3822572"
     },
     {
-        "opinion_id": "13156917",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -5177,10 +5176,10 @@
         "post_date": "2020-10-03 06:53:24",
         "purchase_date": "2020-09-18 19:15:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13156917"
     },
     {
-        "opinion_id": "10099825",
         "author": "Karola",
         "recommendation": true,
         "stars": 5.0,
@@ -5196,10 +5195,10 @@
         "post_date": "2019-02-14 13:42:30",
         "purchase_date": "2019-02-11 18:14:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10099825"
     },
     {
-        "opinion_id": "8650758",
         "author": "Kamila",
         "recommendation": true,
         "stars": 5.0,
@@ -5216,10 +5215,10 @@
         "post_date": "2018-11-30 18:13:17",
         "purchase_date": "2018-11-16 00:05:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8650758"
     },
     {
-        "opinion_id": "3948695",
         "author": "quero",
         "recommendation": true,
         "stars": 5.0,
@@ -5235,10 +5234,10 @@
         "post_date": "2016-09-14 15:29:02",
         "purchase_date": "2016-08-26 16:00:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3948695"
     },
     {
-        "opinion_id": "3584152",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -5249,10 +5248,10 @@
         "post_date": "2016-02-15 12:01:45",
         "purchase_date": "2016-02-01 19:09:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3584152"
     },
     {
-        "opinion_id": "14128096",
         "author": "o...5",
         "recommendation": true,
         "stars": 5.0,
@@ -5267,10 +5266,10 @@
         "post_date": "2021-03-17 08:19:33",
         "purchase_date": "2021-02-20 18:02:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14128096"
     },
     {
-        "opinion_id": "11962219",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5281,10 +5280,10 @@
         "post_date": "2020-03-23 09:48:24",
         "purchase_date": "2020-03-12 20:38:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11962219"
     },
     {
-        "opinion_id": "10313354",
         "author": "Iwona",
         "recommendation": true,
         "stars": 5.0,
@@ -5301,10 +5300,10 @@
         "post_date": "2019-03-28 11:49:56",
         "purchase_date": "2019-03-17 19:21:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10313354"
     },
     {
-        "opinion_id": "4770664",
         "author": "M...a",
         "recommendation": true,
         "stars": 4.5,
@@ -5315,10 +5314,10 @@
         "post_date": "2017-06-19 12:47:18",
         "purchase_date": null,
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4770664"
     },
     {
-        "opinion_id": "10846744",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 5.0,
@@ -5340,10 +5339,10 @@
         "post_date": "2019-07-29 10:55:04",
         "purchase_date": "2019-06-28 12:25:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10846744"
     },
     {
-        "opinion_id": "4605165",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -5354,10 +5353,10 @@
         "post_date": "2017-04-26 10:06:17",
         "purchase_date": "2017-04-19 21:30:30",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4605165"
     },
     {
-        "opinion_id": "3688410",
         "author": "An...",
         "recommendation": true,
         "stars": 5.0,
@@ -5368,10 +5367,10 @@
         "post_date": "2016-04-11 14:11:43",
         "purchase_date": "2016-03-28 22:22:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3688410"
     },
     {
-        "opinion_id": "4410498",
         "author": "alex",
         "recommendation": true,
         "stars": 4.5,
@@ -5382,10 +5381,10 @@
         "post_date": "2017-02-07 09:46:28",
         "purchase_date": "2017-01-25 21:40:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4410498"
     },
     {
-        "opinion_id": "3660304",
         "author": "Dominika",
         "recommendation": true,
         "stars": 5.0,
@@ -5405,10 +5404,10 @@
         "post_date": "2016-03-26 11:57:52",
         "purchase_date": "2016-02-27 10:17:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3660304"
     },
     {
-        "opinion_id": "13801245",
         "author": "Kama",
         "recommendation": true,
         "stars": 4.0,
@@ -5449,10 +5448,10 @@
         "post_date": "2021-01-19 21:04:32",
         "purchase_date": "2021-01-07 11:18:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13801245"
     },
     {
-        "opinion_id": "10343628",
         "author": "Natalia",
         "recommendation": true,
         "stars": 5.0,
@@ -5471,10 +5470,10 @@
         "post_date": "2019-04-03 13:39:13",
         "purchase_date": "2019-03-06 12:51:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10343628"
     },
     {
-        "opinion_id": "9004571",
         "author": "Ania",
         "recommendation": true,
         "stars": 5.0,
@@ -5508,10 +5507,10 @@
         "post_date": "2019-01-29 13:28:57",
         "purchase_date": "2019-01-24 05:20:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "9004571"
     },
     {
-        "opinion_id": "3816671",
         "author": "Dana",
         "recommendation": true,
         "stars": 5.0,
@@ -5522,10 +5521,10 @@
         "post_date": "2016-07-10 13:32:59",
         "purchase_date": "2016-06-27 10:45:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3816671"
     },
     {
-        "opinion_id": "5073522",
         "author": "AB",
         "recommendation": true,
         "stars": 5.0,
@@ -5559,10 +5558,10 @@
         "post_date": "2017-09-26 10:39:22",
         "purchase_date": "2017-09-21 23:43:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5073522"
     },
     {
-        "opinion_id": "4793847",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5573,10 +5572,10 @@
         "post_date": "2017-06-27 08:04:39",
         "purchase_date": "2017-06-09 16:44:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4793847"
     },
     {
-        "opinion_id": "4672633",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -5587,10 +5586,10 @@
         "post_date": "2017-05-17 12:27:04",
         "purchase_date": "2017-05-10 12:19:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4672633"
     },
     {
-        "opinion_id": "10249718",
         "author": "a ruda",
         "recommendation": true,
         "stars": 4.5,
@@ -5609,10 +5608,10 @@
         "post_date": "2019-03-15 10:09:05",
         "purchase_date": "2019-02-28 14:18:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10249718"
     },
     {
-        "opinion_id": "4364545",
         "author": "zula",
         "recommendation": true,
         "stars": 4.0,
@@ -5623,10 +5622,10 @@
         "post_date": "2017-01-22 12:38:07",
         "purchase_date": "2017-01-11 22:19:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4364545"
     },
     {
-        "opinion_id": "3668288",
         "author": "maladion",
         "recommendation": true,
         "stars": 5.0,
@@ -5639,10 +5638,10 @@
         "post_date": "2016-03-31 18:15:59",
         "purchase_date": "2016-03-13 20:21:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3668288"
     },
     {
-        "opinion_id": "3103520",
         "author": "Natalia",
         "recommendation": true,
         "stars": 5.0,
@@ -5655,10 +5654,10 @@
         "post_date": "2015-04-22 19:21:15",
         "purchase_date": "2015-04-09 11:25:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3103520"
     },
     {
-        "opinion_id": "2503832",
         "author": "Danuta",
         "recommendation": true,
         "stars": 5.0,
@@ -5669,10 +5668,10 @@
         "post_date": "2014-03-26 10:54:14",
         "purchase_date": "2014-03-17 09:55:22",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2503832"
     },
     {
-        "opinion_id": "3732506",
         "author": "Ania",
         "recommendation": true,
         "stars": 5.0,
@@ -5688,10 +5687,10 @@
         "post_date": "2016-05-07 14:40:46",
         "purchase_date": "2016-04-14 20:06:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3732506"
     },
     {
-        "opinion_id": "3566134",
         "author": "Monika",
         "recommendation": true,
         "stars": 5.0,
@@ -5702,10 +5701,10 @@
         "post_date": "2016-02-04 08:08:40",
         "purchase_date": "2016-01-13 12:45:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3566134"
     },
     {
-        "opinion_id": "10281802",
         "author": "Margo",
         "recommendation": true,
         "stars": 4.5,
@@ -5729,10 +5728,10 @@
         "post_date": "2019-03-21 16:58:41",
         "purchase_date": "2019-03-12 22:36:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10281802"
     },
     {
-        "opinion_id": "10142441",
         "author": "Magda",
         "recommendation": null,
         "stars": 3.5,
@@ -5745,10 +5744,10 @@
         "post_date": "2019-02-22 16:06:05",
         "purchase_date": "2019-01-22 17:19:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10142441"
     },
     {
-        "opinion_id": "8861987",
         "author": "Patrycja",
         "recommendation": true,
         "stars": 5.0,
@@ -5769,10 +5768,10 @@
         "post_date": "2019-01-04 14:15:23",
         "purchase_date": "2018-12-07 22:29:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8861987"
     },
     {
-        "opinion_id": "8535029",
         "author": "Irena",
         "recommendation": true,
         "stars": 5.0,
@@ -5790,10 +5789,10 @@
         "post_date": "2018-11-08 11:45:47",
         "purchase_date": "2018-10-28 22:30:30",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8535029"
     },
     {
-        "opinion_id": "4954819",
         "author": "Kasia",
         "recommendation": true,
         "stars": 5.0,
@@ -5809,10 +5808,10 @@
         "post_date": "2017-08-18 09:19:56",
         "purchase_date": "2017-08-07 14:18:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4954819"
     },
     {
-        "opinion_id": "3963590",
         "author": "aguwa",
         "recommendation": true,
         "stars": 4.0,
@@ -5823,10 +5822,10 @@
         "post_date": "2016-09-19 08:11:43",
         "purchase_date": "2016-07-13 11:31:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3963590"
     },
     {
-        "opinion_id": "3890245",
         "author": "agawa",
         "recommendation": true,
         "stars": 4.0,
@@ -5837,10 +5836,10 @@
         "post_date": "2016-08-19 08:52:17",
         "purchase_date": "2016-07-13 11:31:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3890245"
     },
     {
-        "opinion_id": "2775872",
         "author": "Jola",
         "recommendation": true,
         "stars": 5.0,
@@ -5853,10 +5852,10 @@
         "post_date": "2014-10-21 11:00:22",
         "purchase_date": "2014-10-10 13:53:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2775872"
     },
     {
-        "opinion_id": "13230391",
         "author": "M...a",
         "recommendation": true,
         "stars": 4.5,
@@ -5872,10 +5871,10 @@
         "post_date": "2020-10-17 13:01:56",
         "purchase_date": "2020-10-11 16:37:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13230391"
     },
     {
-        "opinion_id": "10192130",
         "author": "Kasia",
         "recommendation": true,
         "stars": 5.0,
@@ -5900,10 +5899,10 @@
         "post_date": "2019-03-05 09:52:46",
         "purchase_date": "2019-02-27 12:23:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10192130"
     },
     {
-        "opinion_id": "3779689",
         "author": "poziomka",
         "recommendation": true,
         "stars": 4.5,
@@ -5917,10 +5916,10 @@
         "post_date": "2016-06-11 11:30:47",
         "purchase_date": "2016-06-01 12:41:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3779689"
     },
     {
-        "opinion_id": "3162125",
         "author": "Ania",
         "recommendation": true,
         "stars": 5.0,
@@ -5935,10 +5934,10 @@
         "post_date": "2015-05-26 19:46:32",
         "purchase_date": "2015-04-12 21:44:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3162125"
     },
     {
-        "opinion_id": "8035070",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -5956,10 +5955,10 @@
         "post_date": "2018-06-11 06:47:35",
         "purchase_date": "2018-05-27 11:21:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8035070"
     },
     {
-        "opinion_id": "6661860",
         "author": "Jagoda",
         "recommendation": true,
         "stars": 4.5,
@@ -5974,10 +5973,10 @@
         "post_date": "2018-03-01 15:38:39",
         "purchase_date": "2018-02-12 08:18:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6661860"
     },
     {
-        "opinion_id": "4806452",
         "author": "Andzia",
         "recommendation": true,
         "stars": 5.0,
@@ -5988,10 +5987,10 @@
         "post_date": "2017-06-30 11:28:01",
         "purchase_date": "2017-06-17 08:45:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4806452"
     },
     {
-        "opinion_id": "3855586",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -6010,10 +6009,10 @@
         "post_date": "2016-08-01 13:08:53",
         "purchase_date": "2016-07-11 00:28:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3855586"
     },
     {
-        "opinion_id": "3082705",
         "author": "ania",
         "recommendation": true,
         "stars": 5.0,
@@ -6029,10 +6028,10 @@
         "post_date": "2015-04-08 10:25:35",
         "purchase_date": "2015-02-24 13:59:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3082705"
     },
     {
-        "opinion_id": "4434144",
         "author": "asiek",
         "recommendation": true,
         "stars": 5.0,
@@ -6043,10 +6042,10 @@
         "post_date": "2017-02-15 19:17:12",
         "purchase_date": "2017-02-03 00:48:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4434144"
     },
     {
-        "opinion_id": "4432678",
         "author": "Marta",
         "recommendation": true,
         "stars": 5.0,
@@ -6057,10 +6056,10 @@
         "post_date": "2017-02-15 12:23:52",
         "purchase_date": "2017-02-03 19:20:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4432678"
     },
     {
-        "opinion_id": "13426177",
         "author": "n...i",
         "recommendation": true,
         "stars": 5.0,
@@ -6071,10 +6070,10 @@
         "post_date": "2020-11-22 19:34:24",
         "purchase_date": "2020-10-21 22:58:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13426177"
     },
     {
-        "opinion_id": "12751630",
         "author": "a...z",
         "recommendation": true,
         "stars": 5.0,
@@ -6085,10 +6084,10 @@
         "post_date": "2020-07-02 16:21:30",
         "purchase_date": "2020-06-29 16:44:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12751630"
     },
     {
-        "opinion_id": "10601293",
         "author": "Asia",
         "recommendation": true,
         "stars": 5.0,
@@ -6119,10 +6118,10 @@
         "post_date": "2019-05-31 12:54:28",
         "purchase_date": "2019-04-29 11:20:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10601293"
     },
     {
-        "opinion_id": "8779266",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 5.0,
@@ -6140,10 +6139,10 @@
         "post_date": "2018-12-20 11:52:55",
         "purchase_date": "2018-12-14 09:32:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8779266"
     },
     {
-        "opinion_id": "5098190",
         "author": "Agunia",
         "recommendation": true,
         "stars": 4.5,
@@ -6159,10 +6158,10 @@
         "post_date": "2017-10-04 20:37:32",
         "purchase_date": "2017-09-11 11:24:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5098190"
     },
     {
-        "opinion_id": "4568742",
         "author": "jemen 84",
         "recommendation": true,
         "stars": 5.0,
@@ -6173,10 +6172,10 @@
         "post_date": "2017-04-13 12:15:01",
         "purchase_date": "2017-03-11 15:36:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4568742"
     },
     {
-        "opinion_id": "4389606",
         "author": "MONIKA",
         "recommendation": true,
         "stars": 4.0,
@@ -6187,10 +6186,10 @@
         "post_date": "2017-01-30 19:26:55",
         "purchase_date": "2016-12-26 17:07:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4389606"
     },
     {
-        "opinion_id": "3964752",
         "author": "Natalia",
         "recommendation": true,
         "stars": 5.0,
@@ -6205,10 +6204,10 @@
         "post_date": "2016-09-19 14:46:00",
         "purchase_date": "2016-09-08 15:55:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3964752"
     },
     {
-        "opinion_id": "3435619",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -6219,10 +6218,10 @@
         "post_date": "2015-11-24 11:14:31",
         "purchase_date": "2015-11-09 09:00:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3435619"
     },
     {
-        "opinion_id": "3332098",
         "author": "Adrianna",
         "recommendation": true,
         "stars": 5.0,
@@ -6237,10 +6236,10 @@
         "post_date": "2015-09-21 11:41:17",
         "purchase_date": "2015-09-05 01:14:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3332098"
     },
     {
-        "opinion_id": "2784692",
         "author": "zanetkaw",
         "recommendation": true,
         "stars": 5.0,
@@ -6251,10 +6250,10 @@
         "post_date": "2014-10-28 10:08:33",
         "purchase_date": "2014-10-17 12:18:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2784692"
     },
     {
-        "opinion_id": "6469926",
         "author": "Klemjur",
         "recommendation": true,
         "stars": 5.0,
@@ -6294,10 +6293,10 @@
         "post_date": "2018-01-13 12:18:56",
         "purchase_date": "2018-01-10 19:59:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6469926"
     },
     {
-        "opinion_id": "5103805",
         "author": "Elżbieta",
         "recommendation": true,
         "stars": 5.0,
@@ -6308,10 +6307,10 @@
         "post_date": "2017-10-06 09:36:47",
         "purchase_date": "2017-10-02 18:24:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5103805"
     },
     {
-        "opinion_id": "4399318",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -6322,10 +6321,10 @@
         "post_date": "2017-02-02 13:41:04",
         "purchase_date": "2017-01-24 19:34:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4399318"
     },
     {
-        "opinion_id": "3695259",
         "author": "Anonimowy",
         "recommendation": true,
         "stars": 5.0,
@@ -6340,10 +6339,10 @@
         "post_date": "2016-04-15 11:06:46",
         "purchase_date": "2016-04-06 21:21:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3695259"
     },
     {
-        "opinion_id": "6576189",
         "author": "Klaudia",
         "recommendation": true,
         "stars": 5.0,
@@ -6373,10 +6372,10 @@
         "post_date": "2018-02-09 20:19:54",
         "purchase_date": "2018-02-06 23:53:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6576189"
     },
     {
-        "opinion_id": "6459298",
         "author": "Paulina",
         "recommendation": true,
         "stars": 4.5,
@@ -6387,10 +6386,10 @@
         "post_date": "2018-01-11 08:42:48",
         "purchase_date": "2017-12-28 13:06:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6459298"
     },
     {
-        "opinion_id": "11143817",
         "author": "Monika",
         "recommendation": true,
         "stars": 5.0,
@@ -6536,10 +6535,10 @@
         "post_date": "2019-10-11 11:38:39",
         "purchase_date": "2019-10-07 22:36:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11143817"
     },
     {
-        "opinion_id": "8124418",
         "author": "Jagoda",
         "recommendation": true,
         "stars": 5.0,
@@ -6550,10 +6549,10 @@
         "post_date": "2018-07-11 07:22:06",
         "purchase_date": "2018-07-04 07:46:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8124418"
     },
     {
-        "opinion_id": "5199724",
         "author": "MagdaM",
         "recommendation": true,
         "stars": 5.0,
@@ -6564,10 +6563,10 @@
         "post_date": "2017-11-08 07:52:53",
         "purchase_date": "2017-10-26 11:45:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5199724"
     },
     {
-        "opinion_id": "4960021",
         "author": "Asiatum",
         "recommendation": true,
         "stars": 5.0,
@@ -6578,10 +6577,10 @@
         "post_date": "2017-08-20 10:06:01",
         "purchase_date": "2017-08-14 10:20:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4960021"
     },
     {
-        "opinion_id": "4921047",
         "author": "Magdalena",
         "recommendation": true,
         "stars": 5.0,
@@ -6592,10 +6591,10 @@
         "post_date": "2017-08-07 12:51:06",
         "purchase_date": "2017-07-26 08:26:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4921047"
     },
     {
-        "opinion_id": "4814072",
         "author": "monika",
         "recommendation": true,
         "stars": 5.0,
@@ -6606,10 +6605,10 @@
         "post_date": "2017-07-03 19:17:02",
         "purchase_date": "2017-06-28 20:55:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4814072"
     },
     {
-        "opinion_id": "3644636",
         "author": "Misia",
         "recommendation": true,
         "stars": 5.0,
@@ -6624,10 +6623,10 @@
         "post_date": "2016-03-17 13:17:59",
         "purchase_date": "2016-02-22 12:55:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3644636"
     },
     {
-        "opinion_id": "8491255",
         "author": "Laura",
         "recommendation": true,
         "stars": 5.0,
@@ -6638,10 +6637,10 @@
         "post_date": "2018-10-28 07:54:03",
         "purchase_date": "2018-10-16 20:15:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8491255"
     },
     {
-        "opinion_id": "8469930",
         "author": "Ruda",
         "recommendation": true,
         "stars": 5.0,
@@ -6652,10 +6651,10 @@
         "post_date": "2018-10-22 16:54:36",
         "purchase_date": "2018-10-08 16:25:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8469930"
     },
     {
-        "opinion_id": "8468001",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -6666,10 +6665,10 @@
         "post_date": "2018-10-22 10:43:51",
         "purchase_date": "2018-10-08 18:25:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8468001"
     },
     {
-        "opinion_id": "3681801",
         "author": "Mm",
         "recommendation": true,
         "stars": 5.0,
@@ -6680,10 +6679,10 @@
         "post_date": "2016-04-08 09:50:13",
         "purchase_date": "2016-03-31 10:21:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3681801"
     },
     {
-        "opinion_id": "2996027",
         "author": "tuska92",
         "recommendation": true,
         "stars": 5.0,
@@ -6694,10 +6693,10 @@
         "post_date": "2015-02-13 16:21:54",
         "purchase_date": "2015-01-30 19:37:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2996027"
     },
     {
-        "opinion_id": "10770492",
         "author": "Danka611",
         "recommendation": true,
         "stars": 5.0,
@@ -6708,10 +6707,10 @@
         "post_date": "2019-07-11 13:44:28",
         "purchase_date": "2019-06-12 16:58:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10770492"
     },
     {
-        "opinion_id": "4107371",
         "author": "Sandra M.",
         "recommendation": true,
         "stars": 5.0,
@@ -6722,10 +6721,10 @@
         "post_date": "2016-10-26 14:49:56",
         "purchase_date": "2016-10-02 16:16:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4107371"
     },
     {
-        "opinion_id": "3940424",
         "author": "Somalkowa",
         "recommendation": true,
         "stars": 5.0,
@@ -6740,10 +6739,10 @@
         "post_date": "2016-09-12 12:44:44",
         "purchase_date": "2016-08-26 10:40:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3940424"
     },
     {
-        "opinion_id": "3703108",
         "author": "unladylike",
         "recommendation": true,
         "stars": 5.0,
@@ -6757,10 +6756,10 @@
         "post_date": "2016-04-20 07:56:36",
         "purchase_date": "2016-04-13 14:23:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3703108"
     },
     {
-        "opinion_id": "3600592",
         "author": "bet",
         "recommendation": true,
         "stars": 5.0,
@@ -6771,10 +6770,10 @@
         "post_date": "2016-02-23 19:58:59",
         "purchase_date": "2016-02-01 21:34:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3600592"
     },
     {
-        "opinion_id": "3458081",
         "author": "Marzena",
         "recommendation": true,
         "stars": 5.0,
@@ -6785,10 +6784,10 @@
         "post_date": "2015-12-07 06:38:12",
         "purchase_date": "2015-10-21 06:53:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3458081"
     },
     {
-        "opinion_id": "3083912",
         "author": "katew",
         "recommendation": true,
         "stars": 5.0,
@@ -6801,10 +6800,10 @@
         "post_date": "2015-04-08 19:00:05",
         "purchase_date": "2015-03-31 16:51:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3083912"
     },
     {
-        "opinion_id": "12175306",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -6815,10 +6814,10 @@
         "post_date": "2020-04-17 09:18:08",
         "purchase_date": "2020-03-16 22:07:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12175306"
     },
     {
-        "opinion_id": "8198166",
         "author": "Kaarolajnn",
         "recommendation": true,
         "stars": 5.0,
@@ -6839,10 +6838,10 @@
         "post_date": "2018-07-31 17:04:31",
         "purchase_date": "2018-07-24 11:14:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8198166"
     },
     {
-        "opinion_id": "3769037",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -6859,10 +6858,10 @@
         "post_date": "2016-06-02 18:15:42",
         "purchase_date": "2016-05-19 21:26:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3769037"
     },
     {
-        "opinion_id": "3578026",
         "author": "Gosia",
         "recommendation": true,
         "stars": 5.0,
@@ -6873,10 +6872,10 @@
         "post_date": "2016-02-11 09:07:09",
         "purchase_date": "2016-02-04 13:18:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3578026"
     },
     {
-        "opinion_id": "10877691",
         "author": "Aleksandra",
         "recommendation": true,
         "stars": 4.0,
@@ -6887,10 +6886,10 @@
         "post_date": "2019-08-05 15:20:18",
         "purchase_date": "2019-07-30 22:55:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10877691"
     },
     {
-        "opinion_id": "10868746",
         "author": "Paulina",
         "recommendation": true,
         "stars": 4.5,
@@ -6907,10 +6906,10 @@
         "post_date": "2019-08-02 13:52:00",
         "purchase_date": "2019-07-02 14:25:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10868746"
     },
     {
-        "opinion_id": "8675206",
         "author": "vulpecula",
         "recommendation": true,
         "stars": 5.0,
@@ -6933,10 +6932,10 @@
         "post_date": "2018-12-05 10:54:50",
         "purchase_date": "2018-11-30 11:23:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8675206"
     },
     {
-        "opinion_id": "4892547",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -6947,10 +6946,10 @@
         "post_date": "2017-07-27 21:21:54",
         "purchase_date": "2017-07-04 08:29:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4892547"
     },
     {
-        "opinion_id": "2832719",
         "author": "Ewelina",
         "recommendation": true,
         "stars": 5.0,
@@ -6961,10 +6960,10 @@
         "post_date": "2014-11-28 09:09:44",
         "purchase_date": "2014-11-20 18:33:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2832719"
     },
     {
-        "opinion_id": "8452467",
         "author": "Joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -6975,10 +6974,10 @@
         "post_date": "2018-10-18 08:50:20",
         "purchase_date": "2018-10-05 09:16:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8452467"
     },
     {
-        "opinion_id": "3605638",
         "author": "Katarzyna",
         "recommendation": true,
         "stars": 5.0,
@@ -6994,10 +6993,10 @@
         "post_date": "2016-02-26 11:33:12",
         "purchase_date": "2016-02-21 10:53:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3605638"
     },
     {
-        "opinion_id": "13345068",
         "author": "a...m",
         "recommendation": true,
         "stars": 5.0,
@@ -7013,10 +7012,10 @@
         "post_date": "2020-11-08 22:30:44",
         "purchase_date": "2020-10-09 11:21:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13345068"
     },
     {
-        "opinion_id": "13300934",
         "author": "o...k",
         "recommendation": true,
         "stars": 4.5,
@@ -7027,10 +7026,10 @@
         "post_date": "2020-10-30 20:03:04",
         "purchase_date": "2020-09-29 21:35:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13300934"
     },
     {
-        "opinion_id": "5002182",
         "author": "Ewelinka",
         "recommendation": true,
         "stars": 5.0,
@@ -7041,10 +7040,10 @@
         "post_date": "2017-09-02 10:39:27",
         "purchase_date": "2017-08-19 22:30:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5002182"
     },
     {
-        "opinion_id": "14170793",
         "author": "d...1",
         "recommendation": true,
         "stars": 5.0,
@@ -7060,10 +7059,10 @@
         "post_date": "2021-03-24 12:12:50",
         "purchase_date": "2021-03-16 20:56:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14170793"
     },
     {
-        "opinion_id": "11094202",
         "author": "Kamila",
         "recommendation": true,
         "stars": 5.0,
@@ -7081,10 +7080,10 @@
         "post_date": "2019-09-29 13:37:08",
         "purchase_date": "2019-09-04 09:52:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11094202"
     },
     {
-        "opinion_id": "8441191",
         "author": "Beata K",
         "recommendation": true,
         "stars": 5.0,
@@ -7115,10 +7114,10 @@
         "post_date": "2018-10-14 11:30:03",
         "purchase_date": "2018-10-03 07:26:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8441191"
     },
     {
-        "opinion_id": "2757648",
         "author": "Ewelina",
         "recommendation": true,
         "stars": 5.0,
@@ -7129,10 +7128,10 @@
         "post_date": "2014-10-07 15:08:01",
         "purchase_date": "2014-09-22 21:44:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2757648"
     },
     {
-        "opinion_id": "13880989",
         "author": "k...9",
         "recommendation": true,
         "stars": 5.0,
@@ -7143,10 +7142,10 @@
         "post_date": "2021-02-02 11:47:31",
         "purchase_date": "2021-01-25 15:28:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13880989"
     },
     {
-        "opinion_id": "8320814",
         "author": "Dajana",
         "recommendation": true,
         "stars": 4.5,
@@ -7162,10 +7161,10 @@
         "post_date": "2018-09-06 09:44:07",
         "purchase_date": "2018-09-03 15:36:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8320814"
     },
     {
-        "opinion_id": "3644930",
         "author": "Justyna",
         "recommendation": true,
         "stars": 5.0,
@@ -7176,10 +7175,10 @@
         "post_date": "2016-03-17 16:23:39",
         "purchase_date": "2016-03-04 19:16:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3644930"
     },
     {
-        "opinion_id": "8401404",
         "author": "Reni",
         "recommendation": true,
         "stars": 4.0,
@@ -7201,10 +7200,10 @@
         "post_date": "2018-10-02 18:24:47",
         "purchase_date": "2018-09-29 23:40:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8401404"
     },
     {
-        "opinion_id": "8387144",
         "author": "JJ",
         "recommendation": true,
         "stars": 5.0,
@@ -7221,10 +7220,10 @@
         "post_date": "2018-09-27 18:44:24",
         "purchase_date": "2018-09-22 12:34:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8387144"
     },
     {
-        "opinion_id": "7762184",
         "author": "Gab",
         "recommendation": true,
         "stars": 5.0,
@@ -7241,10 +7240,10 @@
         "post_date": "2018-03-26 07:41:45",
         "purchase_date": "2018-03-20 08:05:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7762184"
     },
     {
-        "opinion_id": "4459445",
         "author": "ruta",
         "recommendation": true,
         "stars": 5.0,
@@ -7255,10 +7254,10 @@
         "post_date": "2017-02-27 13:27:11",
         "purchase_date": "2017-02-09 15:47:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4459445"
     },
     {
-        "opinion_id": "12028875",
         "author": "Lucyna",
         "recommendation": true,
         "stars": 5.0,
@@ -7269,10 +7268,10 @@
         "post_date": "2020-03-31 20:35:43",
         "purchase_date": "2020-03-19 16:35:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12028875"
     },
     {
-        "opinion_id": "10166310",
         "author": "jolka s.",
         "recommendation": true,
         "stars": 5.0,
@@ -7283,10 +7282,10 @@
         "post_date": "2019-02-27 16:38:55",
         "purchase_date": "2019-01-27 21:26:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10166310"
     },
     {
-        "opinion_id": "4442522",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 4.0,
@@ -7297,10 +7296,10 @@
         "post_date": "2017-02-19 22:44:46",
         "purchase_date": "2017-02-08 23:05:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4442522"
     },
     {
-        "opinion_id": "4034591",
         "author": "Tasmin21",
         "recommendation": true,
         "stars": 5.0,
@@ -7311,10 +7310,10 @@
         "post_date": "2016-10-11 14:02:23",
         "purchase_date": "2016-09-27 09:46:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4034591"
     },
     {
-        "opinion_id": "2427471",
         "author": "martyna",
         "recommendation": true,
         "stars": 4.0,
@@ -7325,10 +7324,10 @@
         "post_date": "2014-01-23 10:13:17",
         "purchase_date": "2014-01-09 09:33:59",
         "usefulness": 5,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "2427471"
     },
     {
-        "opinion_id": "10106849",
         "author": "Aga",
         "recommendation": true,
         "stars": 5.0,
@@ -7341,10 +7340,10 @@
         "post_date": "2019-02-15 15:12:38",
         "purchase_date": "2019-02-03 09:36:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10106849"
     },
     {
-        "opinion_id": "3946114",
         "author": "Agniesssa",
         "recommendation": true,
         "stars": 5.0,
@@ -7359,10 +7358,10 @@
         "post_date": "2016-09-13 22:36:10",
         "purchase_date": "2016-08-23 12:17:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3946114"
     },
     {
-        "opinion_id": "2554216",
         "author": "Marena",
         "recommendation": true,
         "stars": 5.0,
@@ -7373,10 +7372,10 @@
         "post_date": "2014-05-08 10:08:10",
         "purchase_date": "2014-04-28 13:16:10",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2554216"
     },
     {
-        "opinion_id": "12978326",
         "author": "d...a",
         "recommendation": null,
         "stars": 3.5,
@@ -7387,10 +7386,10 @@
         "post_date": "2020-08-19 22:00:50",
         "purchase_date": "2020-07-30 18:57:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12978326"
     },
     {
-        "opinion_id": "4040410",
         "author": "ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -7401,10 +7400,10 @@
         "post_date": "2016-10-12 13:03:05",
         "purchase_date": "2016-10-03 23:58:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4040410"
     },
     {
-        "opinion_id": "3855339",
         "author": "Izabela",
         "recommendation": true,
         "stars": 5.0,
@@ -7419,10 +7418,10 @@
         "post_date": "2016-08-01 11:54:52",
         "purchase_date": "2016-07-17 10:27:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3855339"
     },
     {
-        "opinion_id": "3610009",
         "author": "SYLWIA",
         "recommendation": true,
         "stars": 5.0,
@@ -7433,10 +7432,10 @@
         "post_date": "2016-02-29 11:01:23",
         "purchase_date": "2016-02-22 11:08:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3610009"
     },
     {
-        "opinion_id": "6233663",
         "author": "Annika",
         "recommendation": null,
         "stars": 3.5,
@@ -7453,10 +7452,10 @@
         "post_date": "2017-11-21 10:28:32",
         "purchase_date": null,
         "usefulness": 4,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "6233663"
     },
     {
-        "opinion_id": "10057778",
         "author": "klaudia-s",
         "recommendation": true,
         "stars": 5.0,
@@ -7474,10 +7473,10 @@
         "post_date": "2019-02-07 10:42:29",
         "purchase_date": "2019-01-24 13:44:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10057778"
     },
     {
-        "opinion_id": "9026852",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -7509,10 +7508,10 @@
         "post_date": "2019-02-01 07:58:59",
         "purchase_date": "2018-12-26 09:30:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "9026852"
     },
     {
-        "opinion_id": "8603584",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -7523,10 +7522,10 @@
         "post_date": "2018-11-22 14:33:31",
         "purchase_date": "2018-11-18 18:09:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8603584"
     },
     {
-        "opinion_id": "3604724",
         "author": "Zuzanna",
         "recommendation": true,
         "stars": 4.5,
@@ -7537,10 +7536,10 @@
         "post_date": "2016-02-25 21:16:23",
         "purchase_date": "2016-02-16 23:07:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3604724"
     },
     {
-        "opinion_id": "2565029",
         "author": "Paula",
         "recommendation": true,
         "stars": 5.0,
@@ -7551,10 +7550,10 @@
         "post_date": "2014-05-16 08:03:04",
         "purchase_date": "2014-05-06 22:33:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2565029"
     },
     {
-        "opinion_id": "10977090",
         "author": "MARGOT",
         "recommendation": true,
         "stars": 5.0,
@@ -7572,10 +7571,10 @@
         "post_date": "2019-09-13 20:47:23",
         "purchase_date": "2019-08-12 17:26:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10977090"
     },
     {
-        "opinion_id": "10962771",
         "author": "Ilona",
         "recommendation": true,
         "stars": 5.0,
@@ -7609,10 +7608,10 @@
         "post_date": "2019-08-26 06:48:53",
         "purchase_date": "2019-07-24 17:54:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10962771"
     },
     {
-        "opinion_id": "10443321",
         "author": "Iwona",
         "recommendation": true,
         "stars": 5.0,
@@ -7623,10 +7622,10 @@
         "post_date": "2019-04-25 12:59:46",
         "purchase_date": "2019-04-13 21:52:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10443321"
     },
     {
-        "opinion_id": "12335292",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -7637,10 +7636,10 @@
         "post_date": "2020-05-05 00:35:39",
         "purchase_date": "2020-04-10 12:48:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12335292"
     },
     {
-        "opinion_id": "12012576",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -7651,10 +7650,10 @@
         "post_date": "2020-03-29 14:16:56",
         "purchase_date": "2020-02-25 10:09:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12012576"
     },
     {
-        "opinion_id": "10388906",
         "author": "Dona",
         "recommendation": true,
         "stars": 5.0,
@@ -7670,10 +7669,10 @@
         "post_date": "2019-04-12 13:09:17",
         "purchase_date": "2019-03-12 18:30:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10388906"
     },
     {
-        "opinion_id": "6558559",
         "author": "emma",
         "recommendation": true,
         "stars": 5.0,
@@ -7688,10 +7687,10 @@
         "post_date": "2018-02-05 21:37:40",
         "purchase_date": "2018-01-31 18:33:14",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6558559"
     },
     {
-        "opinion_id": "3888428",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -7708,10 +7707,10 @@
         "post_date": "2016-08-18 11:22:38",
         "purchase_date": "2016-08-10 20:15:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3888428"
     },
     {
-        "opinion_id": "3440668",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -7722,10 +7721,10 @@
         "post_date": "2015-11-26 13:38:15",
         "purchase_date": "2015-11-06 14:11:15",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3440668"
     },
     {
-        "opinion_id": "12123960",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 4.5,
@@ -7736,10 +7735,10 @@
         "post_date": "2020-04-11 07:57:25",
         "purchase_date": "2020-03-11 07:21:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12123960"
     },
     {
-        "opinion_id": "5066567",
         "author": "Małgorzata",
         "recommendation": true,
         "stars": 5.0,
@@ -7750,10 +7749,10 @@
         "post_date": "2017-09-22 21:50:16",
         "purchase_date": "2017-09-05 23:24:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5066567"
     },
     {
-        "opinion_id": "4226458",
         "author": "Kasia",
         "recommendation": true,
         "stars": 5.0,
@@ -7764,10 +7763,10 @@
         "post_date": "2016-11-22 15:53:39",
         "purchase_date": "2016-11-13 19:42:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4226458"
     },
     {
-        "opinion_id": "3904102",
         "author": "Paula",
         "recommendation": true,
         "stars": 4.5,
@@ -7782,10 +7781,10 @@
         "post_date": "2016-08-25 23:48:01",
         "purchase_date": "2016-08-12 13:52:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3904102"
     },
     {
-        "opinion_id": "3562408",
         "author": "koko",
         "recommendation": true,
         "stars": 5.0,
@@ -7796,10 +7795,10 @@
         "post_date": "2016-02-02 10:10:09",
         "purchase_date": "2016-01-25 23:11:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3562408"
     },
     {
-        "opinion_id": "2619235",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -7810,10 +7809,10 @@
         "post_date": "2014-06-24 11:26:27",
         "purchase_date": "2014-06-12 12:06:55",
         "usefulness": 6,
-        "uselessness": 4
+        "uselessness": 4,
+        "opinion_id": "2619235"
     },
     {
-        "opinion_id": "13087545",
         "author": "m...z",
         "recommendation": true,
         "stars": 5.0,
@@ -7824,10 +7823,10 @@
         "post_date": "2020-09-15 21:39:51",
         "purchase_date": "2020-09-03 11:37:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13087545"
     },
     {
-        "opinion_id": "10921332",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -7844,10 +7843,10 @@
         "post_date": "2019-08-15 12:38:50",
         "purchase_date": "2019-08-01 14:56:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10921332"
     },
     {
-        "opinion_id": "8957053",
         "author": "milena",
         "recommendation": true,
         "stars": 5.0,
@@ -7870,10 +7869,10 @@
         "post_date": "2019-01-19 20:07:24",
         "purchase_date": "2019-01-15 18:20:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8957053"
     },
     {
-        "opinion_id": "4145398",
         "author": "Aga",
         "recommendation": true,
         "stars": 5.0,
@@ -7884,10 +7883,10 @@
         "post_date": "2016-11-02 23:38:27",
         "purchase_date": "2016-10-21 15:01:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4145398"
     },
     {
-        "opinion_id": "2699615",
         "author": "Emilia",
         "recommendation": true,
         "stars": 5.0,
@@ -7900,10 +7899,10 @@
         "post_date": "2014-08-25 10:35:39",
         "purchase_date": "2014-08-21 09:58:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2699615"
     },
     {
-        "opinion_id": "8211310",
         "author": "Rene",
         "recommendation": true,
         "stars": 5.0,
@@ -7955,10 +7954,10 @@
         "post_date": "2018-08-03 15:50:26",
         "purchase_date": "2018-04-02 22:52:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8211310"
     },
     {
-        "opinion_id": "8153638",
         "author": "Ewa",
         "recommendation": null,
         "stars": 3.0,
@@ -7969,10 +7968,10 @@
         "post_date": "2018-07-18 16:31:10",
         "purchase_date": "2018-06-30 14:35:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8153638"
     },
     {
-        "opinion_id": "6649785",
         "author": "Goja",
         "recommendation": true,
         "stars": 5.0,
@@ -7983,10 +7982,10 @@
         "post_date": "2018-02-27 17:41:57",
         "purchase_date": "2018-02-22 14:27:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6649785"
     },
     {
-        "opinion_id": "4931887",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -7997,10 +7996,10 @@
         "post_date": "2017-08-10 10:40:20",
         "purchase_date": "2017-08-07 12:31:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4931887"
     },
     {
-        "opinion_id": "4929267",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -8017,10 +8016,10 @@
         "post_date": "2017-08-09 15:18:10",
         "purchase_date": "2017-08-02 17:51:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4929267"
     },
     {
-        "opinion_id": "3753005",
         "author": "Hanna",
         "recommendation": true,
         "stars": 5.0,
@@ -8035,10 +8034,10 @@
         "post_date": "2016-05-20 11:06:42",
         "purchase_date": "2016-05-05 13:48:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3753005"
     },
     {
-        "opinion_id": "3556476",
         "author": "Agata",
         "recommendation": true,
         "stars": 5.0,
@@ -8055,10 +8054,10 @@
         "post_date": "2016-01-28 23:37:48",
         "purchase_date": "2016-01-06 16:16:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3556476"
     },
     {
-        "opinion_id": "11755800",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -8069,10 +8068,10 @@
         "post_date": "2020-02-17 11:18:40",
         "purchase_date": "2020-02-12 20:03:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11755800"
     },
     {
-        "opinion_id": "10445739",
         "author": "QmAn",
         "recommendation": true,
         "stars": 4.0,
@@ -8089,10 +8088,10 @@
         "post_date": "2019-04-25 19:58:03",
         "purchase_date": "2019-04-14 14:03:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10445739"
     },
     {
-        "opinion_id": "7949393",
         "author": "alfa",
         "recommendation": true,
         "stars": 5.0,
@@ -8110,10 +8109,10 @@
         "post_date": "2018-05-14 10:00:10",
         "purchase_date": "2018-05-10 09:19:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7949393"
     },
     {
-        "opinion_id": "4686710",
         "author": "Luśka",
         "recommendation": true,
         "stars": 5.0,
@@ -8124,10 +8123,10 @@
         "post_date": "2017-05-22 16:42:26",
         "purchase_date": "2017-05-16 22:27:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4686710"
     },
     {
-        "opinion_id": "4609513",
         "author": "Joa",
         "recommendation": true,
         "stars": 5.0,
@@ -8138,10 +8137,10 @@
         "post_date": "2017-04-26 19:27:01",
         "purchase_date": "2017-01-04 18:43:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4609513"
     },
     {
-        "opinion_id": "3870604",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -8156,10 +8155,10 @@
         "post_date": "2016-08-08 21:19:15",
         "purchase_date": "2016-07-21 10:59:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3870604"
     },
     {
-        "opinion_id": "3052375",
         "author": "lilcia",
         "recommendation": true,
         "stars": 5.0,
@@ -8170,10 +8169,10 @@
         "post_date": "2015-03-19 17:15:17",
         "purchase_date": "2015-03-09 20:42:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3052375"
     },
     {
-        "opinion_id": "2855839",
         "author": "Magda z Olsztyna",
         "recommendation": true,
         "stars": 5.0,
@@ -8184,10 +8183,10 @@
         "post_date": "2014-12-10 18:23:54",
         "purchase_date": "2014-12-01 12:58:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2855839"
     },
     {
-        "opinion_id": "13642070",
         "author": "k...7",
         "recommendation": true,
         "stars": 5.0,
@@ -8198,10 +8197,10 @@
         "post_date": "2020-12-24 06:49:26",
         "purchase_date": "2020-12-05 18:39:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13642070"
     },
     {
-        "opinion_id": "8409822",
         "author": "natalka",
         "recommendation": true,
         "stars": 5.0,
@@ -8212,10 +8211,10 @@
         "post_date": "2018-10-04 13:51:08",
         "purchase_date": "2018-10-01 13:41:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8409822"
     },
     {
-        "opinion_id": "7787747",
         "author": "Kinga",
         "recommendation": true,
         "stars": 5.0,
@@ -8226,10 +8225,10 @@
         "post_date": "2018-03-31 15:42:21",
         "purchase_date": "2018-03-07 14:46:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7787747"
     },
     {
-        "opinion_id": "7782004",
         "author": "Agata",
         "recommendation": true,
         "stars": 5.0,
@@ -8267,10 +8266,10 @@
         "post_date": "2018-03-29 20:06:52",
         "purchase_date": "2018-03-15 17:55:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7782004"
     },
     {
-        "opinion_id": "5080847",
         "author": "Ela",
         "recommendation": true,
         "stars": 4.5,
@@ -8287,10 +8286,10 @@
         "post_date": "2017-09-28 10:17:08",
         "purchase_date": "2017-09-09 23:19:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5080847"
     },
     {
-        "opinion_id": "4753709",
         "author": "grazka",
         "recommendation": true,
         "stars": 4.5,
@@ -8301,10 +8300,10 @@
         "post_date": "2017-06-13 07:32:09",
         "purchase_date": "2017-05-30 11:47:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4753709"
     },
     {
-        "opinion_id": "4499763",
         "author": "Besandrea",
         "recommendation": true,
         "stars": 5.0,
@@ -8315,10 +8314,10 @@
         "post_date": "2017-03-17 09:14:53",
         "purchase_date": "2017-03-09 09:12:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4499763"
     },
     {
-        "opinion_id": "12871471",
         "author": "m...e",
         "recommendation": true,
         "stars": 5.0,
@@ -8329,10 +8328,10 @@
         "post_date": "2020-07-29 22:38:52",
         "purchase_date": "2020-07-15 09:15:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12871471"
     },
     {
-        "opinion_id": "12015320",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -8343,10 +8342,10 @@
         "post_date": "2020-03-30 10:12:00",
         "purchase_date": "2020-03-21 15:22:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12015320"
     },
     {
-        "opinion_id": "11715059",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -8357,10 +8356,10 @@
         "post_date": "2020-02-09 11:09:31",
         "purchase_date": "2020-01-06 11:47:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11715059"
     },
     {
-        "opinion_id": "11057711",
         "author": "Bożka",
         "recommendation": true,
         "stars": 5.0,
@@ -8376,10 +8375,10 @@
         "post_date": "2019-09-19 13:51:18",
         "purchase_date": null,
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11057711"
     },
     {
-        "opinion_id": "10213558",
         "author": "Iwona",
         "recommendation": true,
         "stars": 4.5,
@@ -8392,10 +8391,10 @@
         "post_date": "2019-03-08 15:45:04",
         "purchase_date": "2019-02-20 13:01:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10213558"
     },
     {
-        "opinion_id": "8233775",
         "author": "Bożka",
         "recommendation": true,
         "stars": 5.0,
@@ -8408,10 +8407,10 @@
         "post_date": "2018-08-09 23:13:00",
         "purchase_date": "2018-08-05 18:22:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8233775"
     },
     {
-        "opinion_id": "6631464",
         "author": "U...o",
         "recommendation": true,
         "stars": 5.0,
@@ -8422,10 +8421,10 @@
         "post_date": "2018-02-23 10:21:18",
         "purchase_date": "2018-02-20 20:25:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6631464"
     },
     {
-        "opinion_id": "4451472",
         "author": "Paula",
         "recommendation": true,
         "stars": 4.0,
@@ -8436,10 +8435,10 @@
         "post_date": "2017-02-23 10:58:46",
         "purchase_date": "2017-02-20 10:31:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4451472"
     },
     {
-        "opinion_id": "3438309",
         "author": "Maszka",
         "recommendation": true,
         "stars": 5.0,
@@ -8450,10 +8449,10 @@
         "post_date": "2015-11-25 13:04:59",
         "purchase_date": "2015-11-09 21:33:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3438309"
     },
     {
-        "opinion_id": "5076287",
         "author": "zuzkakrasicka",
         "recommendation": true,
         "stars": 5.0,
@@ -8464,10 +8463,10 @@
         "post_date": "2017-09-27 08:04:47",
         "purchase_date": "2017-09-06 10:01:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5076287"
     },
     {
-        "opinion_id": "5069023",
         "author": "Ada",
         "recommendation": true,
         "stars": 4.5,
@@ -8483,10 +8482,10 @@
         "post_date": "2017-09-24 18:09:52",
         "purchase_date": "2017-08-28 16:05:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5069023"
     },
     {
-        "opinion_id": "2710223",
         "author": "Sabina",
         "recommendation": true,
         "stars": 5.0,
@@ -8501,10 +8500,10 @@
         "post_date": "2014-09-01 12:04:34",
         "purchase_date": "2014-08-14 10:28:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2710223"
     },
     {
-        "opinion_id": "10945152",
         "author": "MvD",
         "recommendation": true,
         "stars": 4.0,
@@ -8515,10 +8514,10 @@
         "post_date": "2019-08-21 13:10:41",
         "purchase_date": "2019-08-16 21:43:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10945152"
     },
     {
-        "opinion_id": "10635187",
         "author": "Anith",
         "recommendation": true,
         "stars": 4.0,
@@ -8537,10 +8536,10 @@
         "post_date": "2019-06-09 08:24:01",
         "purchase_date": "2019-05-08 12:01:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10635187"
     },
     {
-        "opinion_id": "3816510",
         "author": "malgosia732",
         "recommendation": false,
         "stars": 3.5,
@@ -8555,10 +8554,10 @@
         "post_date": "2016-07-10 11:53:07",
         "purchase_date": "2016-06-22 18:46:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3816510"
     },
     {
-        "opinion_id": "6568422",
         "author": "Barbara",
         "recommendation": true,
         "stars": 4.5,
@@ -8569,10 +8568,10 @@
         "post_date": "2018-02-08 09:50:48",
         "purchase_date": "2018-01-31 14:07:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6568422"
     },
     {
-        "opinion_id": "3902839",
         "author": "Pati",
         "recommendation": true,
         "stars": 4.0,
@@ -8589,10 +8588,10 @@
         "post_date": "2016-08-25 17:30:00",
         "purchase_date": "2016-08-09 15:07:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3902839"
     },
     {
-        "opinion_id": "3795081",
         "author": "Paulina",
         "recommendation": true,
         "stars": 5.0,
@@ -8607,10 +8606,10 @@
         "post_date": "2016-06-23 07:48:04",
         "purchase_date": "2016-05-23 08:11:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3795081"
     },
     {
-        "opinion_id": "3560550",
         "author": "Ignesja",
         "recommendation": true,
         "stars": 5.0,
@@ -8621,10 +8620,10 @@
         "post_date": "2016-02-01 09:24:36",
         "purchase_date": "2016-01-04 11:49:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3560550"
     },
     {
-        "opinion_id": "12752918",
         "author": "d...4",
         "recommendation": true,
         "stars": 5.0,
@@ -8635,10 +8634,10 @@
         "post_date": "2020-07-02 21:16:09",
         "purchase_date": "2020-06-23 04:19:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12752918"
     },
     {
-        "opinion_id": "7744379",
         "author": "Pola",
         "recommendation": true,
         "stars": 5.0,
@@ -8649,10 +8648,10 @@
         "post_date": "2018-03-21 14:28:05",
         "purchase_date": "2018-03-02 17:14:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7744379"
     },
     {
-        "opinion_id": "3957170",
         "author": "Rose2121",
         "recommendation": true,
         "stars": 5.0,
@@ -8667,10 +8666,10 @@
         "post_date": "2016-09-16 18:48:57",
         "purchase_date": "2016-09-11 09:47:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3957170"
     },
     {
-        "opinion_id": "3845747",
         "author": "MONIKA.",
         "recommendation": true,
         "stars": 5.0,
@@ -8685,10 +8684,10 @@
         "post_date": "2016-07-27 08:16:33",
         "purchase_date": "2016-07-19 08:53:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3845747"
     },
     {
-        "opinion_id": "3470041",
         "author": "Katarzyna",
         "recommendation": true,
         "stars": 5.0,
@@ -8702,10 +8701,10 @@
         "post_date": "2015-12-11 22:12:06",
         "purchase_date": "2015-11-29 23:07:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3470041"
     },
     {
-        "opinion_id": "3237064",
         "author": "paattkaaa",
         "recommendation": true,
         "stars": 5.0,
@@ -8719,10 +8718,10 @@
         "post_date": "2015-07-15 17:08:41",
         "purchase_date": "2015-06-30 06:31:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3237064"
     },
     {
-        "opinion_id": "3171893",
         "author": "siwkaa",
         "recommendation": true,
         "stars": 5.0,
@@ -8736,10 +8735,10 @@
         "post_date": "2015-06-01 10:14:09",
         "purchase_date": "2015-05-25 20:40:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3171893"
     },
     {
-        "opinion_id": "3030146",
         "author": "Justa",
         "recommendation": true,
         "stars": 5.0,
@@ -8750,10 +8749,10 @@
         "post_date": "2015-03-04 21:40:17",
         "purchase_date": "2015-02-25 18:50:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3030146"
     },
     {
-        "opinion_id": "2852781",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -8764,10 +8763,10 @@
         "post_date": "2014-12-09 13:52:53",
         "purchase_date": "2014-11-28 09:27:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2852781"
     },
     {
-        "opinion_id": "11256309",
         "author": "Justyna",
         "recommendation": true,
         "stars": 5.0,
@@ -8809,10 +8808,10 @@
         "post_date": "2019-11-09 18:00:55",
         "purchase_date": "2019-11-03 22:27:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11256309"
     },
     {
-        "opinion_id": "4451963",
         "author": "joanna",
         "recommendation": true,
         "stars": 5.0,
@@ -8823,10 +8822,10 @@
         "post_date": "2017-02-23 13:00:54",
         "purchase_date": "2017-01-31 20:05:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4451963"
     },
     {
-        "opinion_id": "4372418",
         "author": "Agnieszka",
         "recommendation": true,
         "stars": 5.0,
@@ -8837,10 +8836,10 @@
         "post_date": "2017-01-25 09:23:21",
         "purchase_date": "2017-01-13 21:21:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4372418"
     },
     {
-        "opinion_id": "3947383",
         "author": "Dorota",
         "recommendation": true,
         "stars": 5.0,
@@ -8855,10 +8854,10 @@
         "post_date": "2016-09-14 08:31:50",
         "purchase_date": "2016-09-07 14:15:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3947383"
     },
     {
-        "opinion_id": "3696053",
         "author": "Ania",
         "recommendation": true,
         "stars": 5.0,
@@ -8873,10 +8872,10 @@
         "post_date": "2016-04-15 18:14:36",
         "purchase_date": "2016-04-05 14:40:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3696053"
     },
     {
-        "opinion_id": "3133272",
         "author": "Dana",
         "recommendation": true,
         "stars": 5.0,
@@ -8887,10 +8886,10 @@
         "post_date": "2015-05-08 22:14:36",
         "purchase_date": "2015-05-05 20:10:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3133272"
     },
     {
-        "opinion_id": "14292064",
         "author": "m...8",
         "recommendation": true,
         "stars": 5.0,
@@ -8926,10 +8925,10 @@
         "post_date": "2021-04-14 22:59:50",
         "purchase_date": "2021-04-11 22:34:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14292064"
     },
     {
-        "opinion_id": "13292847",
         "author": "a...m",
         "recommendation": true,
         "stars": 5.0,
@@ -8945,10 +8944,10 @@
         "post_date": "2020-10-29 19:42:00",
         "purchase_date": "2020-10-07 14:46:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13292847"
     },
     {
-        "opinion_id": "12166294",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -8959,10 +8958,10 @@
         "post_date": "2020-04-16 15:41:58",
         "purchase_date": "2020-03-16 07:58:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12166294"
     },
     {
-        "opinion_id": "10804854",
         "author": "goja",
         "recommendation": true,
         "stars": 5.0,
@@ -9109,10 +9108,10 @@
         "post_date": "2019-07-18 22:00:46",
         "purchase_date": "2019-07-08 22:43:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10804854"
     },
     {
-        "opinion_id": "6361711",
         "author": "Morrie",
         "recommendation": true,
         "stars": 5.0,
@@ -9128,10 +9127,10 @@
         "post_date": "2017-12-18 13:38:00",
         "purchase_date": "2017-12-06 00:02:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6361711"
     },
     {
-        "opinion_id": "2918385",
         "author": "aga",
         "recommendation": true,
         "stars": 5.0,
@@ -9142,10 +9141,10 @@
         "post_date": "2015-01-12 19:26:00",
         "purchase_date": "2015-01-06 21:16:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "2918385"
     },
     {
-        "opinion_id": "13224729",
         "author": "m...1",
         "recommendation": true,
         "stars": 5.0,
@@ -9165,10 +9164,10 @@
         "post_date": "2020-10-16 11:38:06",
         "purchase_date": "2020-10-10 19:09:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13224729"
     },
     {
-        "opinion_id": "6343050",
         "author": "Bernadeta",
         "recommendation": true,
         "stars": 5.0,
@@ -9235,10 +9234,10 @@
         "post_date": "2017-12-14 11:36:16",
         "purchase_date": "2017-12-02 20:25:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6343050"
     },
     {
-        "opinion_id": "4001708",
         "author": "Karolina",
         "recommendation": true,
         "stars": 5.0,
@@ -9252,10 +9251,10 @@
         "post_date": "2016-10-02 16:40:16",
         "purchase_date": "2016-09-20 22:16:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4001708"
     },
     {
-        "opinion_id": "3557939",
         "author": "Renata",
         "recommendation": true,
         "stars": 4.5,
@@ -9266,10 +9265,10 @@
         "post_date": "2016-01-29 19:56:50",
         "purchase_date": "2016-01-23 14:18:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3557939"
     },
     {
-        "opinion_id": "3504083",
         "author": "Kl...",
         "recommendation": false,
         "stars": 0.5,
@@ -9280,10 +9279,10 @@
         "post_date": "2015-12-30 12:31:14",
         "purchase_date": "2015-12-12 17:02:15",
         "usefulness": 9,
-        "uselessness": 4
+        "uselessness": 4,
+        "opinion_id": "3504083"
     },
     {
-        "opinion_id": "7904622",
         "author": "sylwia21",
         "recommendation": true,
         "stars": 5.0,
@@ -9300,10 +9299,10 @@
         "post_date": "2018-05-01 13:33:52",
         "purchase_date": "2018-04-19 20:01:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7904622"
     },
     {
-        "opinion_id": "4433103",
         "author": "klik",
         "recommendation": true,
         "stars": 5.0,
@@ -9314,10 +9313,10 @@
         "post_date": "2017-02-15 13:50:22",
         "purchase_date": "2017-02-06 16:14:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4433103"
     },
     {
-        "opinion_id": "3842224",
         "author": "Agata",
         "recommendation": true,
         "stars": 4.5,
@@ -9332,10 +9331,10 @@
         "post_date": "2016-07-25 12:38:04",
         "purchase_date": "2016-06-26 18:30:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3842224"
     },
     {
-        "opinion_id": "3628085",
         "author": "Anna",
         "recommendation": true,
         "stars": 5.0,
@@ -9346,10 +9345,10 @@
         "post_date": "2016-03-07 07:42:24",
         "purchase_date": "2016-02-29 10:37:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3628085"
     },
     {
-        "opinion_id": "11557919",
         "author": "a sk",
         "recommendation": true,
         "stars": 5.0,
@@ -9365,10 +9364,10 @@
         "post_date": "2020-01-10 11:33:39",
         "purchase_date": "2020-01-07 11:21:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11557919"
     },
     {
-        "opinion_id": "10881382",
         "author": "ania",
         "recommendation": true,
         "stars": 5.0,
@@ -9385,10 +9384,10 @@
         "post_date": "2019-08-06 12:20:24",
         "purchase_date": "2019-07-16 09:00:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10881382"
     },
     {
-        "opinion_id": "3831935",
         "author": "Asia",
         "recommendation": null,
         "stars": 3.5,
@@ -9399,10 +9398,10 @@
         "post_date": "2016-07-19 12:34:31",
         "purchase_date": "2016-07-10 15:28:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3831935"
     },
     {
-        "opinion_id": "3590646",
         "author": "efcia",
         "recommendation": true,
         "stars": 5.0,
@@ -9413,10 +9412,10 @@
         "post_date": "2016-02-18 12:46:51",
         "purchase_date": "2016-02-09 10:34:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3590646"
     },
     {
-        "opinion_id": "3157463",
         "author": "ak",
         "recommendation": true,
         "stars": 5.0,
@@ -9427,10 +9426,10 @@
         "post_date": "2015-05-23 17:17:32",
         "purchase_date": "2015-05-16 10:02:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3157463"
     },
     {
-        "opinion_id": "11407178",
         "author": "Paweł",
         "recommendation": true,
         "stars": 5.0,
@@ -9441,10 +9440,10 @@
         "post_date": "2019-12-11 14:54:45",
         "purchase_date": "2019-11-30 12:28:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "11407178"
     },
     {
-        "opinion_id": "10848828",
         "author": "insanelove",
         "recommendation": true,
         "stars": 5.0,
@@ -9481,10 +9480,10 @@
         "post_date": "2019-07-29 14:50:36",
         "purchase_date": "2019-06-28 18:18:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10848828"
     },
     {
-        "opinion_id": "10401431",
         "author": "Ewa",
         "recommendation": true,
         "stars": 4.5,
@@ -9502,10 +9501,10 @@
         "post_date": "2019-04-15 20:30:31",
         "purchase_date": "2019-04-04 12:24:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10401431"
     },
     {
-        "opinion_id": "10348290",
         "author": "natalia9805",
         "recommendation": true,
         "stars": 5.0,
@@ -9516,10 +9515,10 @@
         "post_date": "2019-04-04 11:08:21",
         "purchase_date": "2019-03-28 20:15:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10348290"
     },
     {
-        "opinion_id": "8470399",
         "author": "Magda72",
         "recommendation": true,
         "stars": 5.0,
@@ -9536,10 +9535,10 @@
         "post_date": "2018-10-22 19:27:21",
         "purchase_date": "2018-10-10 08:09:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8470399"
     },
     {
-        "opinion_id": "8235089",
         "author": "Emilia",
         "recommendation": true,
         "stars": 5.0,
@@ -9568,10 +9567,10 @@
         "post_date": "2018-08-10 11:00:19",
         "purchase_date": "2018-08-06 18:14:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8235089"
     },
     {
-        "opinion_id": "7917293",
         "author": "Michał",
         "recommendation": true,
         "stars": 5.0,
@@ -9587,10 +9586,10 @@
         "post_date": "2018-05-05 11:53:47",
         "purchase_date": "2018-04-04 20:23:54",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "7917293"
     },
     {
-        "opinion_id": "6357375",
         "author": "Katarzyna",
         "recommendation": true,
         "stars": 5.0,
@@ -9607,10 +9606,10 @@
         "post_date": "2017-12-17 10:27:51",
         "purchase_date": "2017-12-11 13:48:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6357375"
     },
     {
-        "opinion_id": "5065852",
         "author": "Anonimowy",
         "recommendation": true,
         "stars": 5.0,
@@ -9623,10 +9622,10 @@
         "post_date": "2017-09-22 17:21:44",
         "purchase_date": "2017-09-18 19:52:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "5065852"
     },
     {
-        "opinion_id": "4171735",
         "author": "Natalia",
         "recommendation": true,
         "stars": 5.0,
@@ -9637,10 +9636,10 @@
         "post_date": "2016-11-09 19:36:40",
         "purchase_date": "2016-10-30 15:39:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4171735"
     },
     {
-        "opinion_id": "10606049",
         "author": "Bogumiła",
         "recommendation": true,
         "stars": 4.0,
@@ -9659,10 +9658,10 @@
         "post_date": "2019-06-02 11:20:35",
         "purchase_date": "2019-05-02 05:20:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10606049"
     },
     {
-        "opinion_id": "4949874",
         "author": "Ondraszek",
         "recommendation": true,
         "stars": 5.0,
@@ -9687,10 +9686,10 @@
         "post_date": "2017-08-16 21:36:23",
         "purchase_date": "2017-08-06 22:52:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4949874"
     },
     {
-        "opinion_id": "3664661",
         "author": "wisienka :)",
         "recommendation": true,
         "stars": 5.0,
@@ -9701,10 +9700,10 @@
         "post_date": "2016-03-29 17:19:16",
         "purchase_date": "2016-03-14 15:56:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3664661"
     },
     {
-        "opinion_id": "8540784",
         "author": "Renata",
         "recommendation": true,
         "stars": 5.0,
@@ -9715,10 +9714,10 @@
         "post_date": "2018-11-09 10:12:22",
         "purchase_date": "2018-11-06 10:58:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8540784"
     },
     {
-        "opinion_id": "4489370",
         "author": "Renata",
         "recommendation": true,
         "stars": 5.0,
@@ -9729,10 +9728,10 @@
         "post_date": "2017-03-13 11:30:04",
         "purchase_date": "2017-03-08 20:46:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "4489370"
     },
     {
-        "opinion_id": "3362469",
         "author": "linka245",
         "recommendation": true,
         "stars": 5.0,
@@ -9743,10 +9742,10 @@
         "post_date": "2015-10-12 08:30:33",
         "purchase_date": "2015-09-15 11:44:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "3362469"
     },
     {
-        "opinion_id": "2833500",
         "author": "zanetkaw",
         "recommendation": true,
         "stars": 5.0,
@@ -9757,10 +9756,10 @@
         "post_date": "2014-11-28 13:35:49",
         "purchase_date": "2014-10-17 12:18:26",
         "usefulness": 9,
-        "uselessness": 4
+        "uselessness": 4,
+        "opinion_id": "2833500"
     },
     {
-        "opinion_id": "12449823",
         "author": "K...4",
         "recommendation": true,
         "stars": 5.0,
@@ -9771,10 +9770,10 @@
         "post_date": "2020-05-17 12:39:38",
         "purchase_date": "2020-04-16 13:28:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12449823"
     },
     {
-        "opinion_id": "10305231",
         "author": "Magda",
         "recommendation": true,
         "stars": 5.0,
@@ -9791,10 +9790,10 @@
         "post_date": "2019-03-27 06:39:11",
         "purchase_date": "2019-03-05 17:47:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "10305231"
     },
     {
-        "opinion_id": "8891032",
         "author": "Ewa",
         "recommendation": true,
         "stars": 5.0,
@@ -9816,10 +9815,10 @@
         "post_date": "2019-01-09 10:48:50",
         "purchase_date": "2019-01-06 16:41:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "8891032"
     },
     {
-        "opinion_id": "6325320",
         "author": "domi0186",
         "recommendation": true,
         "stars": 5.0,
@@ -9836,6 +9835,7 @@
         "post_date": "2017-12-11 14:32:15",
         "purchase_date": "2017-12-04 20:33:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "6325320"
     }
 ]
